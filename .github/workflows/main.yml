@@ -26,3 +26,11 @@ jobs:
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         run: python action.py
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add learned.txt
+          git commit -m "Update learned words" -a || echo "No changes to commit"
+          git push
