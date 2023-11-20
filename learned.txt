@@ -4,3 +4,6 @@ nick
 ambush
 rifle
 perish
+arcane
+fallacy
+indulge
