@@ -22,3 +22,6 @@ negotiate
 bestial
 kindred
 chorus
+thaw
+piquant
+poncho
