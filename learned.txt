@@ -25,3 +25,6 @@ chorus
 thaw
 piquant
 poncho
+ragged
+falcon
+goblet

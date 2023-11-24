@@ -162,3 +162,20 @@ International phonetic alphabet and definitions for the words:
 
 3. 'poncho' /ˈpɑːn.tʃoʊ/ - 斗篷；一种由一块大片材料制成，中间有一个头部的孔，在南美洲特别流行的一种衣物；雨衣
 
+I saw a ragged falcon perched on a tree, clutching a shiny goblet in its talons.
+
+国际音标：
+- ragged: /ˈræɡɪd/  [ră-gĭd]
+- falcon: /ˈfælkən/  [făl-kŭn]
+- goblet: /ˈɡɑːblɪt/  [gŏb-lĭt]
+
+英文解释：
+- ragged: torn or frayed; in a state of disrepair
+- falcon: a bird of prey with long wings and a hooked beak, known for its speed and agility
+- goblet: a drinking vessel with a stem and base, often made of metal or glass, typically used for serving wine or other beverages
+
+中文解释：
+- ragged: 破旧的，破烂的；衣衫褴褛的
+- falcon: 猎鹰；鹰派人物
+- goblet: 高脚杯；圣杯；酒杯
+
