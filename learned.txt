@@ -37,3 +37,6 @@ tenet
 threat
 litigation
 sculptor
+pistol
+retail
+sculpt
