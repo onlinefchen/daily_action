@@ -46,3 +46,6 @@ larva
 adore
 classify
 compatible
+exponentially
+hull
+unprovoked
