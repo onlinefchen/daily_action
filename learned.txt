@@ -61,3 +61,6 @@ unctuous
 disbar
 domination
 asparagus
+deplete
+forward
+feedback
