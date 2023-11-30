@@ -64,3 +64,6 @@ asparagus
 deplete
 forward
 feedback
+resin
+bracelet
+penicillin
