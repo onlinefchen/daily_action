@@ -70,3 +70,6 @@ penicillin
 testator
 appall
 stagnant
+bandage
+probe
+spell
