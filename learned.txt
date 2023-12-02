@@ -73,3 +73,6 @@ stagnant
 bandage
 probe
 spell
+vandalism
+discomfiture
+slough
