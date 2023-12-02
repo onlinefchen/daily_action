@@ -76,3 +76,6 @@ spell
 vandalism
 discomfiture
 slough
+therapeutic
+refinery
+skim
