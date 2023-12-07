@@ -106,3 +106,6 @@ bauxite
 execrate
 deportation
 supersede
+debate
+exasperate
+confiscate
