@@ -121,3 +121,6 @@ iridescent
 suffragist
 braggart
 aplomb
+squint
+apt
+chary
