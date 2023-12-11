@@ -127,3 +127,6 @@ chary
 garbled
 retrench
 ingredient
+brag
+devise
+malcontent
