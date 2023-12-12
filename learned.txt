@@ -136,3 +136,6 @@ sawdust
 evacuate
 boon
 intangibility
+desiccate
+facet
+particularize
