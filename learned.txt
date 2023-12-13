@@ -142,3 +142,6 @@ particularize
 sedate
 misrepresentation
 crest
+instill
+martyr
+allege
