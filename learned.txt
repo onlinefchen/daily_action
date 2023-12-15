@@ -151,3 +151,6 @@ smarmy
 stipple
 gustation
 plethora
+sibyl
+gross
+amnesty
