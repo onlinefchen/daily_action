@@ -160,3 +160,6 @@ defoliator
 startle
 glib
 catalog
+vernacular
+hostile
+dilettante
