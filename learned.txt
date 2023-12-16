@@ -157,3 +157,6 @@ amnesty
 mordant
 perpendicular
 defoliator
+startle
+glib
+catalog
