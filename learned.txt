@@ -163,3 +163,6 @@ catalog
 vernacular
 hostile
 dilettante
+innocence
+vile
+ruse
