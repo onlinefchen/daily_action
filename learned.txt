@@ -166,3 +166,6 @@ dilettante
 innocence
 vile
 ruse
+stance
+charter
+revere
