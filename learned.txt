@@ -181,3 +181,6 @@ mourn
 amiable
 brazen
 sophistry
+shavings
+acuity
+falter
