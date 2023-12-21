@@ -190,3 +190,6 @@ xenophobe
 lectern
 escapism
 shield
+swift
+fledge
+deign
