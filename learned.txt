@@ -193,3 +193,6 @@ shield
 swift
 fledge
 deign
+doggerel
+pulverize
+thread
