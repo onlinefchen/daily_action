@@ -199,3 +199,6 @@ thread
 atrocity
 cross
 jaundiced
+gaffe
+affection
+delectable
