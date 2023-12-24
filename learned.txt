@@ -208,3 +208,6 @@ underrate
 cavort
 appeal
 ditty
+hibernate
+upheaval
+phonetic
