@@ -214,3 +214,6 @@ phonetic
 shiftiness
 cub
 inter
+emphatic
+swell
+trepidation

@@ -1106,3 +1106,18 @@ Translation: "我注意到小动物园的幼兽和其他动物互动时有些狡
 
 Please note that the provided phonetic transcriptions are based on the International Phonetic Alphabet (IPA).
 
+Sure! Here is a sentence that includes the words 'emphatic', 'swell', and 'trepidation':
+
+"Despite feeling a bit of trepidation, she gave an emphatic and confident speech that made the audience's anticipation swell."
+
+emphatic [ɪmˈfætɪk] (adjective): showing strong emphasis or conviction
+中文解释：强调的，坚决的
+
+swell [swɛl] (verb): to increase in size, volume, or intensity
+中文解释：增大，增强，膨胀
+
+trepidation [ˌtrɛpɪˈdeɪʃ(ə)n] (noun): a feeling of fear or anxiety about something that may happen
+中文解释：惊恐，担忧
+
+中文翻译：尽管内心有些忐忑不安，但她发表了一篇强调和自信的演讲，让观众的期待增加。
+
