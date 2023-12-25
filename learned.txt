@@ -211,3 +211,6 @@ ditty
 hibernate
 upheaval
 phonetic
+shiftiness
+cub
+inter
