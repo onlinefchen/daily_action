@@ -235,3 +235,6 @@ nonsensical
 vituperative
 affinity
 ramble
+apothecary
+facilities
+distribute
