@@ -1214,3 +1214,14 @@ Sure! Here is a sentence containing 'apothecary', 'facilities', and 'distribute'
 - facilities: 设施；设备
 - distribute: 分发；分配
 
+Sure! Here's a sentence that includes 'staid,' 'hideous,' and 'persistence' in a conversational style:
+
+"Despite his staid appearance, his hideous fashion choices, and his lack of talent, he pursued his dream of becoming a singer with unwavering persistence."
+
+中文翻译：尽管他的外表保守，搭配衣服令人讨厌，而且缺乏天赋，但他凭借坚定不移的毅力追逐自己成为一名歌手的梦想。
+
+国际音标、英文解释和中文解释如下：
+- staid [steɪd] (adj.): sedate, respectable, and unadventurous （端庄的，庄重的，不 冒险的）
+- hideous [ˈhɪdiəs] (adj.): extremely ugly or shocking in appearance （丑陋的，骇人的）
+- persistence [pɚˈsɪstəns] (n.): the quality of continuing to do something in a determined way despite facing difficulties or opposition （坚持，执着）
+

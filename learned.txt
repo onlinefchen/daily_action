@@ -238,3 +238,6 @@ ramble
 apothecary
 facilities
 distribute
+staid
+hideous
+persistence
