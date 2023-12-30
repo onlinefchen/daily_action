@@ -241,3 +241,6 @@ distribute
 staid
 hideous
 persistence
+instrumental
+endorse
+sentinel
