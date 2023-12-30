@@ -244,3 +244,6 @@ persistence
 instrumental
 endorse
 sentinel
+oxidize
+woe
+incantation
