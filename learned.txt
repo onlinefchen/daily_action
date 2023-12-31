@@ -250,3 +250,6 @@ incantation
 proselytize
 forge
 vendor
+reparable
+lump
+infraction
