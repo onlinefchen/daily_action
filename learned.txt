@@ -247,3 +247,6 @@ sentinel
 oxidize
 woe
 incantation
+proselytize
+forge
+vendor
