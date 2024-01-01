@@ -253,3 +253,6 @@ vendor
 reparable
 lump
 infraction
+portentous
+asperity
+ordeal
