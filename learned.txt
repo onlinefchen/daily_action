@@ -274,3 +274,6 @@ fluke
 gallon
 palmy
 consistency
+luxurious
+lug
+painstaking
