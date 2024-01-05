@@ -280,3 +280,6 @@ painstaking
 arch
 prolixity
 document
+adulterate
+doodle
+peripheral
