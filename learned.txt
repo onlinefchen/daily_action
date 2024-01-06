@@ -283,3 +283,6 @@ document
 adulterate
 doodle
 peripheral
+gild
+clemency
+faultfinder
