@@ -286,3 +286,6 @@ peripheral
 gild
 clemency
 faultfinder
+ambidextrous
+rite
+undirected
