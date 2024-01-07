@@ -292,3 +292,6 @@ undirected
 invoke
 rapids
 descend
+pomposity
+nebulous
+droll
