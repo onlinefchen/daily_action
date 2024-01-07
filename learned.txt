@@ -289,3 +289,6 @@ faultfinder
 ambidextrous
 rite
 undirected
+invoke
+rapids
+descend
