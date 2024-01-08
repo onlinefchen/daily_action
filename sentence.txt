@@ -1525,3 +1525,23 @@ vertex - 最高点或顶点
 中文翻译：
 我渴望着我最喜爱的艺术家的加冕仪式，因为它将是他们事业的巅峰。
 
+Sure! Here is a sentence that includes the words "anagram," "rebus," and "susceptible":
+
+"I tried to solve the anagram puzzle, but it was so tricky that I had to resort to a rebus instead. However, I found myself susceptible to making mistakes due to its clever design."
+
+anagram [ˈænəˌɡræm] - a word or phrase formed by rearranging the letters of another word or phrase
+
+rebus [ˈriːbəs] - a puzzle or representation in which pictures or symbols are used to represent words or parts of words
+
+susceptible [səˈsɛptəbəl] - likely to be influenced or affected by something
+
+中文翻译：
+
+"我尝试解答这个字谜游戏，但是它非常棘手，以至于我不得不转而尝试一个象形谜。然而，由于它巧妙的设计，我发现自己容易犯错误。"
+
+anagram - 通过重新排列另一个单词的字母而形成的单词或短语
+
+rebus - 通过图片或符号代表单词或单词部分的谜题或表达方式
+
+susceptible - 容易受影响或受到某些影响的
+

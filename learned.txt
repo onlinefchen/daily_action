@@ -298,3 +298,6 @@ droll
 yearn
 coronation
 vertex
+anagram
+rebus
+susceptible
