@@ -301,3 +301,6 @@ vertex
 anagram
 rebus
 susceptible
+pulchritude
+gracious
+skirt
