@@ -313,3 +313,6 @@ prosaic
 square
 fiscal
 patent
+facile
+droplet
+chicanery
