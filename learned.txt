@@ -322,3 +322,6 @@ landfill
 circumstantial
 intuition
 conjecture
+encounter
+etymology
+syndrome
