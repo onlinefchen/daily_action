@@ -328,3 +328,6 @@ syndrome
 consensus
 grisly
 braggadocio
+molding
+hemostat
+sear
