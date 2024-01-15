@@ -340,3 +340,6 @@ concomitant
 geyser
 mortuary
 locomotion
+formula
+appreciable
+graphic
