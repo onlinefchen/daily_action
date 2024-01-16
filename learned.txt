@@ -346,3 +346,6 @@ graphic
 pullet
 preposition
 biped
+vulture
+porcelain
+siege
