@@ -343,3 +343,6 @@ locomotion
 formula
 appreciable
 graphic
+pullet
+preposition
+biped
