@@ -355,3 +355,6 @@ chaos
 plinth
 suffocate
 balm
+onerous
+remorse
+hiatus

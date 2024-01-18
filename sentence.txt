@@ -1828,3 +1828,12 @@ Translation (中文翻译)：我感觉无法呼吸，仿佛世界的重担压在
 
 Please note that 'plinth' and 'balm' are above a middle school level, while 'suffocate' might be within a middle school level.
 
+The hiatus from work due to the onerous tasks assigned to me left me with a feeling of remorse for not taking a break earlier.
+
+国际音标：
+- onerous: /ˈɒnərəs/ - 英文解释：involving a lot of effort and difficulty；中文解释：费力的，艰巨的
+- remorse: /rɪˈmɔːs/ - 英文解释：a strong feeling of guilt and regret；中文解释：懊悔，悔恨
+- hiatus: /haɪˈeɪtəs/ - 英文解释：a pause or gap in a series, sequence, or process；中文解释：中断，间断 
+
+中文翻译：因被委派的费力任务而产生的工作间断让我感到懊悔，早先没有休息一下。
+
