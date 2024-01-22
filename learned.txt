@@ -379,3 +379,6 @@ lush
 ornithologist
 castigation
 antibody
+glare
+descry
+colony
