@@ -2046,3 +2046,20 @@ Here are the phonetic transcriptions, English definitions, and Chinese translati
 
 Please let me know if you have any other questions or need further assistance!
 
+"The meeting was so boring that everyone couldn't wait for the adjournment and the intermission to take a break."
+
+国际音标：
+boring /ˈbɔːrɪŋ/  [bor-ing] - causing feelings of weariness, dullness, or monotony
+adjourn /əˈdʒɜːrn/ [uh-jurn] - to suspend a meeting or session temporarily
+intermission /ˌɪntərˈmɪʃən/ [in-ter-mish-uhn] - a pause or break in a performance, such as during a play or concert
+
+英文解释：
+boring - causing a feeling of weariness, dullness, or lack of interest
+adjourn - to suspend a meeting or session temporarily, often for a break or to resume at a later time
+intermission - a break or pause in a performance, providing an opportunity for a rest or refreshments
+
+中文解释：
+boring - 导致厌烦、乏味或缺乏兴趣的
+adjourn - 暂时中止会议或会议的过程，通常为休息或稍后恢复
+intermission - 一场表演中的休息或暂停，为休息或补给提供机会
+
