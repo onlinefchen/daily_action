@@ -424,3 +424,6 @@ pedal
 lullaby
 lackadaisical
 spate
+epigram
+petroglyph
+edifice
