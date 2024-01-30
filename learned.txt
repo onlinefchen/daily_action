@@ -427,3 +427,6 @@ spate
 epigram
 petroglyph
 edifice
+tension
+cloudburst
+applaud
