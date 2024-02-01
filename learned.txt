@@ -439,3 +439,6 @@ torque
 cognizant
 hoodwink
 lobe
+fidget
+assorted
+bar
