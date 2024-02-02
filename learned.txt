@@ -445,3 +445,6 @@ bar
 scrutable
 internecine
 floodgate
+hormone
+badger
+slippage
