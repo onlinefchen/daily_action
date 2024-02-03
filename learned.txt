@@ -454,3 +454,6 @@ bazaar
 deserter
 loyal
 iconoclastic
+tint
+rife
+annoy
