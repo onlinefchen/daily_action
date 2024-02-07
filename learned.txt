@@ -478,3 +478,6 @@ demise
 doctrinaire
 luminary
 ephemeral
+wilt
+acorn
+trapeze
