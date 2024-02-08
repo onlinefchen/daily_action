@@ -481,3 +481,6 @@ ephemeral
 wilt
 acorn
 trapeze
+ceramics
+abandon
+accost
