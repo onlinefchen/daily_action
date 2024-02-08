@@ -484,3 +484,6 @@ trapeze
 ceramics
 abandon
 accost
+bigot
+periphery
+litigant
