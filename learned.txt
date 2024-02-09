@@ -487,3 +487,6 @@ accost
 bigot
 periphery
 litigant
+tilt
+contented
+folklore
