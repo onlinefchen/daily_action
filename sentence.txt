@@ -2537,3 +2537,15 @@ Word breakdown with IPA, English definitions, and Chinese translations:
 
 Note: The word "clause" is not necessarily considered high level vocabulary, but I have included it for completeness and in context with the other words requested.
 
+As the hail dwindled outside, the sound of the grating on the window pane grew increasingly irritating.
+
+hail [heɪl] - (verb) to come down in hard, frozen drops; (noun) frozen raindrops
+dwindle [ˈdwɪndəl] - (verb) to become gradually less or smaller; to diminish
+grating [ˈɡreɪtɪŋ] - (noun) a framework of parallel or crossed bars or wires; (adjective) harsh or unpleasant in sound or sensation
+
+作为冰雹逐渐减少时，窗户上的金属摩擦声变得越来越烦人。
+
+hail [heɪl] - (动词) 以大颗冰粒的形式降落; (名词) 冰雹
+dwindle [ˈdwɪndəl] - (动词) 逐渐变少或变小; 减少
+grating [ˈɡreɪtɪŋ] - (名词) 平行或交叉的条状物构成的框架; (形容词) 听起来或感受起来刺耳或不愉快
+

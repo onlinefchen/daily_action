@@ -499,3 +499,6 @@ ribald
 precocious
 underling
 clause
+hail
+dwindle
+grating
