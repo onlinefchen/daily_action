@@ -508,3 +508,6 @@ slippery
 adjacent
 emergency
 explicit
+shrewd
+animus
+derivation
