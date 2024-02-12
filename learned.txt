@@ -505,3 +505,6 @@ grating
 prestige
 securities
 slippery
+adjacent
+emergency
+explicit
