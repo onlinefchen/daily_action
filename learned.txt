@@ -511,3 +511,6 @@ explicit
 shrewd
 animus
 derivation
+timorous
+lexicographer
+parallelism
