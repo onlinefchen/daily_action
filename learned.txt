@@ -514,3 +514,6 @@ derivation
 timorous
 lexicographer
 parallelism
+gape
+scoff
+bargain
