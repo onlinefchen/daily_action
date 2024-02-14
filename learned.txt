@@ -520,3 +520,6 @@ bargain
 disclose
 voluptuous
 impression
+coy
+pernicious
+coagulate
