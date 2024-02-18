@@ -541,3 +541,6 @@ equate
 labyrinth
 gristle
 hypocritical
+overflow
+diffident
+fatigue
