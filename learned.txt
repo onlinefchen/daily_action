@@ -544,3 +544,6 @@ hypocritical
 overflow
 diffident
 fatigue
+compartment
+stolid
+conserve
