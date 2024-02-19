@@ -547,3 +547,6 @@ fatigue
 compartment
 stolid
 conserve
+tyrant
+satiated
+entrancing
