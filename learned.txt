@@ -562,3 +562,6 @@ rectitude
 faculty
 insufficient
 refugee
+grind
+oak
+convict
