@@ -559,3 +559,6 @@ prank
 infant
 pundit
 rectitude
+faculty
+insufficient
+refugee
