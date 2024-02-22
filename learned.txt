@@ -568,3 +568,6 @@ convict
 banter
 gargoyle
 fermentation
+offset
+celebrated
+score
