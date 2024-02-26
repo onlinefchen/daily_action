@@ -592,3 +592,6 @@ sinuous
 inhabit
 boast
 enfeeble
+domain
+undermine
+sunder
