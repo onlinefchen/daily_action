@@ -598,3 +598,6 @@ sunder
 propitiate
 stunning
 permanence
+summary
+deadpan
+introspective
