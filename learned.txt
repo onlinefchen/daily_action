@@ -601,3 +601,6 @@ permanence
 summary
 deadpan
 introspective
+bulb
+thrust
+despise
