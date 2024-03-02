@@ -619,3 +619,6 @@ kidnap
 arrhythmic
 greenhouse
 imperturbable
+span
+hardy
+colossal
