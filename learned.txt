@@ -637,3 +637,6 @@ incompatible
 axle
 awkward
 bluster
+hyperbole
+stealth
+variegation
