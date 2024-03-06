@@ -646,3 +646,6 @@ distract
 verbiage
 cathedral
 axiom
+projectile
+vacillate
+amenity
