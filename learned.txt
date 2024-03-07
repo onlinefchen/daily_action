@@ -649,3 +649,6 @@ axiom
 projectile
 vacillate
 amenity
+salutation
+relegate
+sovereignty
