@@ -652,3 +652,6 @@ amenity
 salutation
 relegate
 sovereignty
+deride
+antipathy
+translucent
