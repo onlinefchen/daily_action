@@ -3246,3 +3246,5 @@ Sure! Here is a sentence that includes "indict," "freckle," and "congest" in a c
 2. freckle /ˈfrɛkəl/ - a small brown spot on the skin, often caused by exposure to the sun; 雀斑
 3. congest /kənˈdʒɛst/ - to become blocked or overcrowded; 拥挤，堵塞
 
+Error generating sentence: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+
