@@ -670,3 +670,6 @@ predestine
 despotic
 purgatory
 aerial
+stall
+abeyance
+rostrum
