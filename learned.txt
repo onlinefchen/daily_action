@@ -682,3 +682,6 @@ impressed
 ban
 geometrician
 astute
+avert
+calipers
+vacuous
