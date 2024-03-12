@@ -679,3 +679,6 @@ prudish
 decimate
 boor
 impressed
+ban
+geometrician
+astute
