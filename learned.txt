@@ -688,3 +688,6 @@ vacuous
 enjoin
 debase
 quill
+suspicious
+extraneous
+charisma
