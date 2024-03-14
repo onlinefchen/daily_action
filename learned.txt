@@ -694,3 +694,6 @@ charisma
 transitory
 track
 hermit
+obtainable
+obstreperous
+lackluster
