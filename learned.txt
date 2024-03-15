@@ -697,3 +697,6 @@ hermit
 obtainable
 obstreperous
 lackluster
+merit
+fathom
+placate
