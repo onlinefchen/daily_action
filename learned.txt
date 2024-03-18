@@ -715,3 +715,6 @@ proscribe
 brand
 covenant
 errand
+champion
+discredit
+align
