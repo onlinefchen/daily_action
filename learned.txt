@@ -727,3 +727,6 @@ prevail
 valve
 capricious
 guzzle
+disaster
+impetuous
+appoint
