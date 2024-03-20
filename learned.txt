@@ -730,3 +730,6 @@ guzzle
 disaster
 impetuous
 appoint
+unsettling
+premeditated
+legend
