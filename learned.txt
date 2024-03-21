@@ -736,3 +736,6 @@ legend
 well-groomed
 bucolic
 substance
+monochrome
+lofty
+observatory
