@@ -742,3 +742,6 @@ observatory
 distension
 outline
 inequity
+verbal
+supplicant
+anterior
