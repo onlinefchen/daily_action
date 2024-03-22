@@ -739,3 +739,6 @@ substance
 monochrome
 lofty
 observatory
+distension
+outline
+inequity
