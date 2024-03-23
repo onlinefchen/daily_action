@@ -745,3 +745,6 @@ inequity
 verbal
 supplicant
 anterior
+obverse
+sidestep
+herpetologist
