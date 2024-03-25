@@ -760,3 +760,6 @@ foul
 incogitant
 antiseptic
 charity
+naive
+steep
+centaur
