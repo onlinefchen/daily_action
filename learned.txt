@@ -757,3 +757,6 @@ aegis
 omelet
 efficacy
 foul
+incogitant
+antiseptic
+charity
