@@ -766,3 +766,6 @@ centaur
 mutineer
 galaxy
 dandy
+dire
+prate
+foresight
