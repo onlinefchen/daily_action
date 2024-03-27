@@ -772,3 +772,6 @@ foresight
 indignant
 indurate
 odometer
+penetrate
+virtual
+grandiose
