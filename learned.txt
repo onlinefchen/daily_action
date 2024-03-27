@@ -769,3 +769,6 @@ dandy
 dire
 prate
 foresight
+indignant
+indurate
+odometer
