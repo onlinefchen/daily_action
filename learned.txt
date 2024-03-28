@@ -775,3 +775,6 @@ odometer
 penetrate
 virtual
 grandiose
+yielding
+exterminate
+ordain
