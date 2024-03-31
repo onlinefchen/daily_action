@@ -793,3 +793,6 @@ vestige
 elm
 secede
 toss
+survive
+stigmatize
+bust
