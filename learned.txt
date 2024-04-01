@@ -802,3 +802,6 @@ parse
 conflagration
 safeguard
 appetizing
+oppress
+opinionated
+prosecution
