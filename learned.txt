@@ -811,3 +811,6 @@ miff
 obviate
 flinch
 intransigent
+intermediary
+chromatic
+augur
