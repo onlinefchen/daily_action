@@ -817,3 +817,6 @@ augur
 lustrous
 outshine
 formidable
+flag
+parabola
+predecessor
