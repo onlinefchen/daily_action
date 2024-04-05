@@ -826,3 +826,6 @@ immolate
 parity
 attic
 endemic
+disguise
+census
+speck
