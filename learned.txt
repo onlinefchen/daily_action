@@ -829,3 +829,6 @@ endemic
 disguise
 census
 speck
+stipulation
+shoulder
+emollient
