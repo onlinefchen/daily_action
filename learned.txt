@@ -832,3 +832,6 @@ speck
 stipulation
 shoulder
 emollient
+stuffy
+latency
+frothy
