@@ -841,3 +841,6 @@ massive
 paucity
 brook
 maroon
+distinct
+steadfast
+tract
