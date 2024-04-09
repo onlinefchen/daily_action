@@ -850,3 +850,6 @@ unscented
 upright
 peer
 agile
+cloister
+pursue
+refute
