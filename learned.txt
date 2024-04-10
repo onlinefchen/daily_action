@@ -856,3 +856,6 @@ refute
 catalyst
 obsequious
 telling
+pillory
+microbe
+tuxedo
