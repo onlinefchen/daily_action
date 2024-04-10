@@ -853,3 +853,6 @@ agile
 cloister
 pursue
 refute
+catalyst
+obsequious
+telling
