@@ -859,3 +859,6 @@ telling
 pillory
 microbe
 tuxedo
+nonporous
+gusher
+begrudge
