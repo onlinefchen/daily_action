@@ -862,3 +862,6 @@ tuxedo
 nonporous
 gusher
 begrudge
+tickler
+instrumentalist
+tortuous
