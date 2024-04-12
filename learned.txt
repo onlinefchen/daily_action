@@ -868,3 +868,6 @@ tortuous
 impediment
 debouch
 generation
+hazard
+prohibitive
+waddle
