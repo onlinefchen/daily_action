@@ -874,3 +874,6 @@ waddle
 seminary
 obtuse
 scheme
+cant
+anticlimax
+mock
