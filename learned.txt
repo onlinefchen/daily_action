@@ -880,3 +880,6 @@ mock
 barricade
 fictitious
 scruple
+astrology
+asteroid
+ethnology
