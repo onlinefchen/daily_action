@@ -877,3 +877,6 @@ scheme
 cant
 anticlimax
 mock
+barricade
+fictitious
+scruple
