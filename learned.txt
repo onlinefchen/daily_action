@@ -883,3 +883,6 @@ scruple
 astrology
 asteroid
 ethnology
+credible
+saturate
+centurion
