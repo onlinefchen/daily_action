@@ -892,3 +892,6 @@ coloration
 amity
 illuminate
 revive
+equivalent
+demolition
+connoisseur
