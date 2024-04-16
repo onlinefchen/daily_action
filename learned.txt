@@ -889,3 +889,6 @@ centurion
 astringent
 tenant
 coloration
+amity
+illuminate
+revive
