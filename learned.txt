@@ -898,3 +898,6 @@ connoisseur
 antiquated
 deify
 scad
+terse
+perjury
+recession
