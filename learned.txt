@@ -910,3 +910,6 @@ morale
 applause
 dorsal
 pine
+manure
+tissue
+monologue
