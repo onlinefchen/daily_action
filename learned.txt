@@ -907,3 +907,6 @@ inert
 lionize
 insinuate
 morale
+applause
+dorsal
+pine
