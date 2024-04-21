@@ -919,3 +919,6 @@ preclude
 excursive
 languor
 myopic
+misinform
+status
+marked
