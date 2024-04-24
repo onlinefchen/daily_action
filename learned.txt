@@ -937,3 +937,6 @@ zest
 gadfly
 guilt
 whittle
+specialized
+surge
+outstrip
