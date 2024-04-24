@@ -940,3 +940,6 @@ whittle
 specialized
 surge
 outstrip
+incision
+succinct
+immune
