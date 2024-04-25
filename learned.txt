@@ -943,3 +943,6 @@ outstrip
 incision
 succinct
 immune
+refractory
+metrical
+squabble
