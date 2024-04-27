@@ -958,3 +958,6 @@ compel
 distraught
 scribble
 ravine
+ore
+grotto
+counterfeit
