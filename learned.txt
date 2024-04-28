@@ -961,3 +961,6 @@ ravine
 ore
 grotto
 counterfeit
+trunk
+off-key
+delegate
