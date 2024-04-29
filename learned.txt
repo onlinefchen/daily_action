@@ -970,3 +970,6 @@ profane
 prudent
 disciple
 oust
+deductive
+rendezvous
+lapse
