@@ -973,3 +973,6 @@ oust
 deductive
 rendezvous
 lapse
+behoove
+stilted
+majestic
