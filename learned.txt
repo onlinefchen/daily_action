@@ -979,3 +979,6 @@ majestic
 inanimate
 legislation
 illustrate
+mnemonics
+privilege
+propensity
