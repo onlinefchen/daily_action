@@ -982,3 +982,6 @@ illustrate
 mnemonics
 privilege
 propensity
+cloying
+nomadic
+monarchy
