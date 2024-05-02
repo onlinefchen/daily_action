@@ -985,3 +985,6 @@ propensity
 cloying
 nomadic
 monarchy
+contravene
+pulp
+talisman
