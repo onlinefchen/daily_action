@@ -988,3 +988,6 @@ monarchy
 contravene
 pulp
 talisman
+intercept
+scathing
+boisterous
