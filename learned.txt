@@ -994,3 +994,6 @@ boisterous
 synthesis
 humane
 diverse
+longing
+auction
+choke
