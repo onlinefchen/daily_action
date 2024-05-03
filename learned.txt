@@ -991,3 +991,6 @@ talisman
 intercept
 scathing
 boisterous
+synthesis
+humane
+diverse
