@@ -1006,3 +1006,6 @@ arroyo
 ineptitude
 heresy
 gossamer
+comply
+razor
+condescending
