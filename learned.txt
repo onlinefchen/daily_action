@@ -1003,3 +1003,6 @@ analyze
 assault
 suspend
 arroyo
+ineptitude
+heresy
+gossamer
