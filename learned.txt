@@ -1030,3 +1030,6 @@ glossy
 pretend
 contrast
 camouflage
+idolater
+pictorial
+delimit
