@@ -1036,3 +1036,6 @@ delimit
 incarnate
 cavil
 vivacious
+shoddy
+spite
+enzyme
