@@ -1033,3 +1033,6 @@ camouflage
 idolater
 pictorial
 delimit
+incarnate
+cavil
+vivacious
