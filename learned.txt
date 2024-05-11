@@ -1042,3 +1042,6 @@ enzyme
 brassy
 stem
 rickety
+exacerbate
+munition
+ebullience
