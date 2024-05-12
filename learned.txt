@@ -1048,3 +1048,6 @@ ebullience
 blasphemy
 foodstuff
 amulet
+minuscule
+knave
+gladiator
