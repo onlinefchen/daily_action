@@ -1051,3 +1051,6 @@ amulet
 minuscule
 knave
 gladiator
+revue
+denounce
+bestow
