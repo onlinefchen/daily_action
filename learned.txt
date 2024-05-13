@@ -1054,3 +1054,6 @@ gladiator
 revue
 denounce
 bestow
+illusory
+spectator
+lurid
