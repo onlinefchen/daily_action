@@ -1060,3 +1060,6 @@ lurid
 spontaneous
 cameo
 diurnal
+serrated
+excel
+mitten
