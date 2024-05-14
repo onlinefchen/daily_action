@@ -1057,3 +1057,6 @@ bestow
 illusory
 spectator
 lurid
+spontaneous
+cameo
+diurnal
