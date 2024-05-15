@@ -1066,3 +1066,6 @@ mitten
 lachrymose
 affluent
 perpetual
+beat
+distinctive
+clipper
