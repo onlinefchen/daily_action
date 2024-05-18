@@ -1084,3 +1084,6 @@ pamphlet
 stupor
 procession
 helmet
+mediate
+meditative
+cryptic
