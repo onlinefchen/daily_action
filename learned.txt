@@ -1090,3 +1090,6 @@ cryptic
 gorge
 ledger
 bail
+ambivalent
+untutored
+torpor
