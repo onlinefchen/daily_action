@@ -1099,3 +1099,6 @@ tamper
 impervious
 jubilation
 dogma
+sketchy
+enormous
+glutinous
