@@ -1105,3 +1105,6 @@ glutinous
 catharsis
 feckless
 insatiable
+chisel
+recumbent
+pare
