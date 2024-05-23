@@ -1114,3 +1114,6 @@ sheer
 heterodox
 discrepancy
 horrific
+exhaustive
+fusion
+cite
