@@ -1126,3 +1126,6 @@ corrupt
 hoop
 decorate
 unqualified
+indigence
+esoteric
+sedulous
