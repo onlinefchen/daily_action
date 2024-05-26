@@ -1132,3 +1132,6 @@ sedulous
 hazardous
 nonentity
 smuggle
+incidence
+imprint
+premonition
