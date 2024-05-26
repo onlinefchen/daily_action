@@ -1129,3 +1129,6 @@ unqualified
 indigence
 esoteric
 sedulous
+hazardous
+nonentity
+smuggle
