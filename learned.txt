@@ -1150,3 +1150,6 @@ spineless
 jigsaw
 canvass
 rival
+halo
+exhilaration
+mingle
