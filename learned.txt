@@ -1156,3 +1156,6 @@ mingle
 sensitive
 abolition
 octogenarian
+furnace
+gourmet
+rig
