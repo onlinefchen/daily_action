@@ -1174,3 +1174,6 @@ aesthete
 infantile
 hover
 somber
+cohesion
+accord
+demonstrative
