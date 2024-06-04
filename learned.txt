@@ -1186,3 +1186,6 @@ billowy
 err
 killjoy
 omnipresent
+sarcastic
+provident
+specimen
