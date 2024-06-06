@@ -1198,3 +1198,6 @@ sparse
 fringe
 evasive
 bedeck
+decency
+credence
+diligence
