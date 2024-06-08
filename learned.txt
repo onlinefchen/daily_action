@@ -1207,3 +1207,6 @@ lasso
 accomplice
 overreach
 partisan
+recital
+poignant
+signal
