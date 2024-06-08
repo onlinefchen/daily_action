@@ -1210,3 +1210,6 @@ partisan
 recital
 poignant
 signal
+coop
+ripple
+vocation
