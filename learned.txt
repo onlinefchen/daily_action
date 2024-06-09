@@ -1216,3 +1216,6 @@ vocation
 intractable
 commence
 preach
+critical
+iniquitous
+functional
