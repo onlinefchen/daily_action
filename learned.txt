@@ -1222,3 +1222,6 @@ functional
 schematic
 ensign
 trend
+hold
+compassionate
+subsidy
