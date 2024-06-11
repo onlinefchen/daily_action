@@ -1228,3 +1228,6 @@ subsidy
 group
 tear
 dirge
+celebrity
+egotist
+pollster
