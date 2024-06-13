@@ -1240,3 +1240,6 @@ populous
 defy
 eavesdrop
 motility
+dispensable
+relieved
+detonation
