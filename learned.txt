@@ -1237,3 +1237,6 @@ infinitesimal
 ignite
 implication
 populous
+defy
+eavesdrop
+motility
