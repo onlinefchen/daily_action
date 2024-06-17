@@ -1261,3 +1261,6 @@ pinpoint
 semblance
 petulant
 glower
+impermeability
+listless
+empiricism
