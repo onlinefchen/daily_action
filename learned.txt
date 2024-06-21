@@ -1285,3 +1285,6 @@ dwarf
 request
 gluttonous
 referee
+cognizance
+ignominious
+husband
