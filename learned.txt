@@ -1306,3 +1306,6 @@ fender
 sultry
 pitch
 petty
+cunning
+cape
+tightfisted
