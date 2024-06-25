@@ -1312,3 +1312,6 @@ tightfisted
 gauge
 elaborate
 categorical
+glean
+plumber
+illegitimate
