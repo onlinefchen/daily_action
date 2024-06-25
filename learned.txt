@@ -1309,3 +1309,6 @@ petty
 cunning
 cape
 tightfisted
+gauge
+elaborate
+categorical
