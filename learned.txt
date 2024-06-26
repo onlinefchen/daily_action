@@ -1315,3 +1315,6 @@ categorical
 glean
 plumber
 illegitimate
+blush
+perfunctorily
+arid
