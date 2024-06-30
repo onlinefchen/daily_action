@@ -1342,3 +1342,6 @@ pronounced
 salute
 enervate
 shrub
+proceeds
+freight
+engrave
