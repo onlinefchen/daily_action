@@ -3696,3 +3696,9 @@ Error generating sentence: Error code: 429 - {'error': {'message': 'You exceeded
 
 Error generating sentence: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
 
+Sure, here is a sentence for you:
+
+"When I saw the soldier salute the flag, I couldn't help but feel an enervating sense of duty among the quiet shrubbery." 
+
+此句中，'salute' [səˈluːt] 是动词，表示向......敬礼，'enervate' [ˈɛnərveɪt] 是动词，使无力，使衰弱，'shrub' [ʃrʌb] 是名词，指灌木。
+
