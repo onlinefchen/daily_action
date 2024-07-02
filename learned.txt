@@ -1351,3 +1351,6 @@ custody
 veritable
 candid
 grease
+incorrigible
+adverse
+hectic
