@@ -3804,3 +3804,15 @@ Sure, here is a sentence with 'uncommitted', 'suspect', and 'down-to-earth':
 中文翻译：
 “莎拉是一位不坚定的女演员，怀疑所有同事都太花哨，不够脚踏实地。”
 
+The teacher upbraided Tom for his lackluster oration and requested a concise précis instead.
+
+[ðə ˈtiːtʃər ʌpˈbreɪdɪd tɒm fɔr hɪz ˈlækˌlʌstər ɔˈreɪʃən ænd rɪˈkwɛstɪd ə kənˈsaɪs ˈpreɪsi]
+
+International Phonetic Alphabet (IPA) and English Definitions:
+- upbraid /ʌpˈbreɪd/ (v.): to scold or criticize severely
+- oration /ɔˈreɪʃən/ (n.): a formal speech to a large audience
+- précis /ˈpreɪsi/ (n.): a concise summary or abstract
+
+Chinese Translation:
+老师责备汤姆漫无目的的演讲，并要求提供简明扼要的摘要。
+
