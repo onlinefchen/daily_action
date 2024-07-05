@@ -1372,3 +1372,6 @@ mute
 plutocracy
 diminution
 conciliatory
+multiple
+partiality
+receptive
