@@ -1378,3 +1378,6 @@ receptive
 ethnic
 presume
 prowl
+conform
+fresco
+charitable
