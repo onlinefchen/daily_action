@@ -1384,3 +1384,6 @@ charitable
 nullify
 hypothetical
 acrobat
+jaunty
+malfunction
+equivocate

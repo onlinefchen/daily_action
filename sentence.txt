@@ -3880,3 +3880,15 @@ Sure! Here is a casual sentence that includes the words "nullify," "hypothetical
 
 这个句子的中文翻译是："如果一个杂技演员突然被传送到一个假想的世界，在那里重力可以被抵消，他们会有无限的可能性来进行大胆的特技表演。"
 
+"Yesterday, the jaunty repairman tried to equivocate about the malfunction in my computer, but I could tell he was not being honest." 
+
+中文翻译：昨天，那位神气十足的维修员试图支吾起我的电脑故障，但我能感觉到他并不诚实。
+
+单词解释：
+- jaunty /ˈdʒɔːnti/ (adj.) - having or expressing a lively, cheerful, and self-confident manner
+（快活的，洋洋得意的）
+- malfunction /ˌmæl.fʌŋk.ʃən/ (n.) - a failure to function normally
+（故障，失灵）
+- equivocate /ɪˈkwɪv.ə.keɪt/ (v.) - to use unclear language in order to deceive or mislead
+（模棱两可地说话，支吾其词）
+
