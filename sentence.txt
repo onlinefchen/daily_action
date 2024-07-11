@@ -3980,3 +3980,11 @@ Sure, here is a sentence for you:
 
 English translation: 我被一阵震耳欲聋的噪音所困扰，似乎其影响范围至少有一英里。
 
+Sure, here is a sentence for you: "After successfully passing the statutory exam, she gained momentum in her career, but a sudden shunt in the company's direction threw her off course."  
+
+- 'momentum' [məˈmɛntəm] (n.) - the strength or force that allows something to continue or grow stronger or faster.
+- 'statutory' [ˈstætʃətɔːri] (adj.) - required, permitted, or enacted by statute.
+- 'shunt' [ʃʌnt] (v.) - to move or turn to one side; to redirect or switch direction.
+
+中文翻译：“在成功通过了法定考试后，她在职业生涯中获得了势头，但公司突然变向的折线使她偏离了方向。”
+
