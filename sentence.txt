@@ -3999,3 +3999,23 @@ Sure, here is a sentence for you: "The colloquial language used by the teenager 
 - colloquial /kəˈloʊkwiəl/ (adjective): used in ordinary or familiar conversation; not formal or literary
   中文解释：口语的
 
+Sure! Here is a sentence for you:
+
+"The cooperative team worked together to tackle the feisty mare during the training session."
+
+["dæbəl", "mɛr", "koʊˈɑːpəˌreɪtɪv"]
+Double:
+- IPA: /ˈdʌbəl/
+- Meaning: Consisting of two parts, elements, or aspects.
+- 中文解释: 由两部分、元素或方面组成。
+
+mare:
+- IPA: /mer/
+- Meaning: A female horse, especially when fully matured.
+- 中文解释: 母马，尤其是成熟的母马。
+
+cooperative:
+- IPA: /kəʊˈɒpərətɪv/
+- Meaning: Involving mutual assistance in working towards a common goal.
+- 中文解释: 协作的，涉及共同努力实现共同目标的。
+
