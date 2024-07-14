@@ -1423,3 +1423,6 @@ spiritual
 stockade
 plunder
 pessimism
+condense
+bankrupt
+poll
