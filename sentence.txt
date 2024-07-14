@@ -4054,3 +4054,11 @@ Sure! Here is a sentence for you: "I had to condense my report to avoid going ba
 
 Translation: "我不得不压缩我的报告以避免破产，但民意调查显示人们仍然希望得到更多信息。"
 
+Sure, here's a sentence for you: "His bravado at the party notched up a level when he decided to explore the aviary and attempt to feed the exotic birds." 
+
+- bravado [brəˈvɑː.doʊ] (noun) - a bold manner or a show of boldness intended to impress or intimidate
+- aviary [ˈeɪ.vi.er.i] (noun) - a large cage, building, or enclosure where birds are kept
+- notch [nɒtʃ] (verb) - to achieve or obtain something, especially when it is a significant accomplishment
+
+And the Chinese translation of the sentence is: "当他决定探索鸟舍并尝试喂食异国情调的鸟时，他在派对上的虚张声势增加了一个层次。"
+
