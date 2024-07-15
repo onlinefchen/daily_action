@@ -4062,3 +4062,16 @@ Sure, here's a sentence for you: "His bravado at the party notched up a level wh
 
 And the Chinese translation of the sentence is: "当他决定探索鸟舍并尝试喂食异国情调的鸟时，他在派对上的虚张声势增加了一个层次。"
 
+Sure! Here is a sentence for you: 
+
+"Our ancestors believed in the existence of life on every planet, but we now know that such ideas were merely sophisms."
+
+Divide the sentence also in a way that indicates which words are above junior high level.
+
+* Sophism /ˈsɒf.ɪ.zəm/ - a clever but deceptive argument or reasoning
+* Ancestor /ˈæn.ses.tər/ - a person from whom one is descended, especially one earlier in the line of descent
+* Planet /ˈplæn.ɪt/ - a large, round celestial object that orbits a star
+
+Translation:
+我们的祖先相信每颗行星上都存在生命，但我们现在知道这些想法只不过是伪造的论点。
+
