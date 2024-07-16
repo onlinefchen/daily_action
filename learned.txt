@@ -1435,3 +1435,6 @@ ancestor
 montage
 conglomerate
 gait
+ravel
+ram
+epitome
