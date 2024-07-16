@@ -4094,3 +4094,11 @@ Sure, here is a sentence for you: "She thought her messy room was the epitome of
 
 中文翻译: "她觉得她邋遢的房间是纠缠和杂乱生活方式的缩影。"
 
+Sure, here is a sentence for you: "The petitioner used guile to manipulate the hierarchy within the company." 
+
+- petitioner [pəˈtɪʃənər] (noun) - a person who presents a petition to an authority demanding some type of action or right.
+- hierarchy [ˈhaɪəˌrɑ:ki] (noun) - a system or organization in which people or groups are ranked one above the other according to status or authority.
+- guile [ɡaɪl] (noun) - the use of cunning or deceitful strategies to achieve a goal; trickery.
+
+中文翻译： "申请人利用狡诈手段操纵了公司内部的等级制度。"
+
