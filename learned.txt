@@ -1441,3 +1441,6 @@ epitome
 petitioner
 hierarchy
 guile
+dreary
+eccentric
+crescendo
