@@ -1444,3 +1444,6 @@ guile
 dreary
 eccentric
 crescendo
+outrage
+imponderable
+mantle
