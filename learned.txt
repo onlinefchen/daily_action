@@ -1447,3 +1447,6 @@ crescendo
 outrage
 imponderable
 mantle
+veracity
+shelve
+disclaim
