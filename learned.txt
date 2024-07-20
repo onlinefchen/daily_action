@@ -1462,3 +1462,6 @@ slaughter
 sanction
 fecundity
 hybrid
+shrink
+asphyxiate
+traverse
