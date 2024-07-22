@@ -4242,3 +4242,14 @@ Sure! Here is a sentence for you: "The teacher's platitude about life being fini
 
 中文翻译：“老师对生命有限这一陈词滥调如同图纸上的对角线一样没有新意。”
 
+Sure, here is a sentence for you: "The clown sought shelter from the rain under the permeable awning."
+
+将句子翻译成中文： "小丑在可透水的遮篷下避雨。"
+
+- clown [klaʊn] (n.): a comic performer who uses exaggerated behavior and outlandish costumes to entertain audiences
+    中文解释：小丑，以夸张的表现和奇装异服来娱乐观众的滑稽演员
+- permeable ['pɜːmiəbl] (adj.): allowing liquids or gases to pass through
+    中文解释：可渗透的，可以让液体或气体穿过的
+- shelter ['ʃɛltər] (n.): a place providing protection or refuge
+    中文解释：遮蔽处，提供保护或庇护的地方
+

@@ -1474,3 +1474,6 @@ dedication
 platitude
 finite
 diagonal
+clown
+permeable
+shelter
