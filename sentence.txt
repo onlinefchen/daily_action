@@ -4234,3 +4234,11 @@ Sure! Here is a sentence for you:
 
 Translation: 莎拉对她木工手艺的虔诚奉献体现在她从回收木材精心打造的每件家具上。
 
+Sure! Here is a sentence for you: "The teacher's platitude about life being finite was as predictable as the diagonal lines on graph paper." 
+
+- platitude [ˈplætəˌtud]: a remark or statement that has been used too often to be interesting or thoughtful; 陈词滥调
+- finite [ˈfaɪˌnaɪt]: having limits or bounds; 有限的
+- diagonal [daɪˈæɡənəl]: a straight line that is sloping rather than horizontal or vertical; 对角线
+
+中文翻译：“老师对生命有限这一陈词滥调如同图纸上的对角线一样没有新意。”
+

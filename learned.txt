@@ -1471,3 +1471,6 @@ impassioned
 unpretentious
 lumber
 dedication
+platitude
+finite
+diagonal
