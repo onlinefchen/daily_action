@@ -1477,3 +1477,6 @@ diagonal
 clown
 permeable
 shelter
+friction
+artifacts
+plaudit
