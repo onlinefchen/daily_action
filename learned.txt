@@ -1480,3 +1480,6 @@ shelter
 friction
 artifacts
 plaudit
+cohabit
+associate
+variance
