@@ -1486,3 +1486,6 @@ variance
 insubstantial
 cylinder
 desperate
+artifact
+solicit
+altruistic
