@@ -1489,3 +1489,6 @@ desperate
 artifact
 solicit
 altruistic
+stride
+plaintive
+whiff
