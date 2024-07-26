@@ -1498,3 +1498,6 @@ ostensible
 complementary
 mechanical
 mill
+stylus
+groom
+linear
