@@ -1501,3 +1501,6 @@ mill
 stylus
 groom
 linear
+slumber
+subtract
+scabbard
