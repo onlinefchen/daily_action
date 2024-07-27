@@ -1504,3 +1504,6 @@ linear
 slumber
 subtract
 scabbard
+flange
+gustatory
+trio
