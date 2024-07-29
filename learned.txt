@@ -1516,3 +1516,6 @@ corral
 resent
 presentation
 medieval
+aver
+costume
+tariff

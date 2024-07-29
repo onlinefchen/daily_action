@@ -4398,3 +4398,14 @@ Sure! Here is a sentence for you:
 
 中文翻译：我对上周无聊的中世纪展示感到厌恶。
 
+Sure! Here is a sentence for you:
+
+"I aver that purchasing a new costume online saved me money even with the added tariff."
+
+中文翻译：我断言，在线购买新装比在商店买要便宜，尽管有额外关税。 
+
+单词解释：
+1. aver /əˈvɜːr/ - to state or affirm with confidence; 断言，宣称
+2. costume /ˈkɑːsˌtuːm/ - a set of clothes in a style typical of a particular country or historical period; 服装
+3. tariff /ˈtærɪf/ - a tax or duty to be paid on a particular class of imports or exports; 关税
+
