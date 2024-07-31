@@ -1528,3 +1528,6 @@ predicament
 giggle
 spear
 pregnant
+diabolical
+composer
+legacy
