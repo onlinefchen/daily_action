@@ -1534,3 +1534,6 @@ legacy
 immensity
 adventitious
 malpractice
+obsolete
+deaden
+functionary
