@@ -1540,3 +1540,6 @@ functionary
 agnostic
 surveyor
 immure
+table
+testament
+debut
