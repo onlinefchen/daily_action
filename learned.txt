@@ -1537,3 +1537,6 @@ malpractice
 obsolete
 deaden
 functionary
+agnostic
+surveyor
+immure
