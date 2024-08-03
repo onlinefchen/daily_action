@@ -1546,3 +1546,6 @@ debut
 manipulative
 swing
 depressed
+unconscious
+parlance
+entrance
