@@ -1549,3 +1549,6 @@ depressed
 unconscious
 parlance
 entrance
+traitor
+indecisive
+denote
