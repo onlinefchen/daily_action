@@ -1558,3 +1558,6 @@ fast
 address
 ungainly
 needle
+awning
+tremor
+earnest
