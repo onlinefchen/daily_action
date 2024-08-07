@@ -1570,3 +1570,6 @@ puny
 precise
 loathe
 segment
+histology
+weld
+escalate
