@@ -4647,3 +4647,13 @@ International Phonetic Alphabet (IPA), English Definition, and Chinese Translati
 - groove [ɡruːv] (n.): a settled routine or habit; 惯例或习惯
 - spur [spɜːr] (v.): to encourage, stimulate, or push someone to do something; 激励、刺激或促使某人做某事
 
+Sure! Here is a casual sentence including the words "hexagon," "convoke," and "fabricate":
+
+"I saw a cool sculpture of a giant hexagon fabricated from metal at the art gallery after the mayor decided to convoke a meeting to discuss public art installations."
+
+['hɛksəɡɑːn] - a shape with six straight sides and angles
+[kənˈvoʊk] - to call together or summon for a meeting
+['fæbrɪˌkeɪt] - to make or construct something, usually with careful attention to detail
+
+中文翻译： "我在市长决定召集会议讨论公共艺术装置后，在艺术画廊看到了用金属制作的巨大六边形雕塑。"
+

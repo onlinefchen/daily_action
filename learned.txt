@@ -1576,3 +1576,6 @@ escalate
 repine
 groove
 spur
+hexagon
+convoke
+fabricate
