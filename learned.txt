@@ -1579,3 +1579,6 @@ spur
 hexagon
 convoke
 fabricate
+bog
+reaper
+discursive
