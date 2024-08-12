@@ -1600,3 +1600,6 @@ cartographer
 effrontery
 transfer
 glaze
+contentious
+sermon
+assert
