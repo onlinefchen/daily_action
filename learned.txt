@@ -1603,3 +1603,6 @@ glaze
 contentious
 sermon
 assert
+delta
+treacherous
+reinforce
