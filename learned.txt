@@ -1606,3 +1606,6 @@ assert
 delta
 treacherous
 reinforce
+anecdote
+gazetteer
+gardenia
