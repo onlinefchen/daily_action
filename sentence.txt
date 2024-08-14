@@ -4789,3 +4789,11 @@ Sure! Here is a sentence for you: "The offstage drama revealed the despotism of 
 
 中文翻译：幕后的戏剧揭露了贫困统治者的专制统治。
 
+Sure! Here is a sentence for you: "The gentle tapping on the hatch was barely louder than a whisper, measuring just a few decibels."
+
+- hatch [hætʃ] (n.) - a small opening in a door or floor for passing things through or looking through; 孵化舱、门窗的舱口
+- decibel [ˈdeːsəˌbel] (n.) - a unit for measuring how loud a sound is; 分贝
+- gentle [ˈdʒentl] (adj.) - kind, mild, or soft; 温和、柔和
+
+中文翻译：门窗上轻轻敲击的声音几乎比耳语还要轻，仅仅只有几分贝的声音。
+
