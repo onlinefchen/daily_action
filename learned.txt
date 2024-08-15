@@ -1618,3 +1618,6 @@ gentle
 cadet
 charm
 responsiveness
+smooth
+pack
+nice
