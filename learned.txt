@@ -1615,3 +1615,6 @@ needy
 hatch
 decibel
 gentle
+cadet
+charm
+responsiveness
