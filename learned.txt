@@ -1627,3 +1627,6 @@ amateurish
 anesthetic
 impose
 levelheaded
+enfetter
+sapient
+empower
