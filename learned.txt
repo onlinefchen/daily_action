@@ -1642,3 +1642,6 @@ retrace
 tranquility
 betray
 denomination
+announce
+harrow
+sate
