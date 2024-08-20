@@ -1645,3 +1645,6 @@ denomination
 announce
 harrow
 sate
+harbinger
+unbend
+adept
