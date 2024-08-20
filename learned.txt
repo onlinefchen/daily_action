@@ -1648,3 +1648,6 @@ sate
 harbinger
 unbend
 adept
+ulcer
+retrieve
+crack
