@@ -1663,3 +1663,6 @@ inundate
 overdose
 shrug
 valediction
+chalice
+graduated
+scrutinize
