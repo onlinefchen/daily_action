@@ -1678,3 +1678,6 @@ verdigris
 encroach
 allergic
 dissent
+spontaneity
+rant
+corroborate
