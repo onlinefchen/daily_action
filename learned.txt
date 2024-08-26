@@ -1681,3 +1681,6 @@ dissent
 spontaneity
 rant
 corroborate
+raffish
+eclecticism
+badge
