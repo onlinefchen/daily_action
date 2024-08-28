@@ -1696,3 +1696,6 @@ inspired
 ruffle
 dispatch
 abhor
+whistle
+purity
+languish
