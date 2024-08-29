@@ -5128,3 +5128,8 @@ Translation: 这位明智的替演迅速消除了人们对他接替主角角色�
 
 If you have any more questions or need further assistance, feel free to ask!
 
+"Sorry 'bout my outdated computer, I need to hack into it to clean out all the fusty files."  
+['sɔːri] - feeling or expressing regret or sorrow; [b.a.ʊt] - 关于；对于  
+[hæk] - to gain unauthorized access to data in a system; [ˈhuːsɪ] - 非法入侵  
+[ˈfʌsti] - musty-smelling; stale; [ˈfaɪl] - a collection of data stored on a computer; [ 發霉的; 味道陳舊的；陳舊的]
+
