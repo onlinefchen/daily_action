@@ -1714,3 +1714,6 @@ receipt
 crusade
 delirium
 stellar
+plight
+perishing
+wobble

@@ -5175,3 +5175,12 @@ Sure, here is a more casual sentence that includes 'crusade', 'delirium', and 's
 
 希望这样能帮到你学习这些单词！
 
+Sentence: "He wobbled through the forest, his plight worsening as he saw the perishing animals struggling for survival."
+
+解释：
+- wobble /ˈwɒb.əl/：to move with an unsteady side-to-side motion；摇晃不稳地移动
+- plight /plaɪt/：a difficult or unfortunate situation；困境
+- perishing /ˈper.ɪ.ʃɪŋ/：dying or about to die；垂死的
+
+翻译： "他在森林中摇摇晃晃地走着，当他看到垂死的动物们为生存而挣扎时，他的困境变得更加恶化。"
+
