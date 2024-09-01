@@ -1717,3 +1717,6 @@ stellar
 plight
 perishing
 wobble
+unmoved
+somatic
+fig
