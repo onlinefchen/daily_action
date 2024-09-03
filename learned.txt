@@ -1732,3 +1732,6 @@ liquefy
 predominant
 mauve
 iniquity
+insignia
+deflated
+lyric
