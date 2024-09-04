@@ -1735,3 +1735,6 @@ iniquity
 insignia
 deflated
 lyric
+authoritarian
+competence
+heir
