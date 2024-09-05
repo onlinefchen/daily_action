@@ -5296,3 +5296,11 @@ Sure, here is a sentence for you:
 - locale /loʊˈkæl/ (noun): a place where something happens or is set, or that has particular events associated with it. 中文解释：发生事件的地点，或与特定事件相关的地方。
 - substantial /səbˈstænʃl/ (adjective): of considerable importance, size, or worth. 中文解释：重要的，大的，值得的。
 
+Sure, here is a sentence for you: "After winning the pennant, the ravenous team headed to the beach for a BBQ grill party." 
+
+- ravenous [ˈrævənəs] (adj.) - extremely hungry or eager 
+- pennant [ˈpɛnənt] (n.) - a triangular flag used for signaling or as an emblem of victory 
+- grill [ɡrɪl] (n.) - a metal framework used for cooking food over an open fire or a source of direct heat
+
+Translation (翻译): "在获得了锦旗之后，这支饥饿难耐的队伍前往海滩举行了烤肉派对。"
+

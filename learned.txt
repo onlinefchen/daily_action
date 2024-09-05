@@ -1744,3 +1744,6 @@ inspection
 daunt
 locale
 substantial
+ravenous
+pennant
+grill
