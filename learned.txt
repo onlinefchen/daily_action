@@ -1741,3 +1741,6 @@ heir
 institute
 dereliction
 inspection
+daunt
+locale
+substantial
