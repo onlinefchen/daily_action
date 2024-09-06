@@ -5304,3 +5304,13 @@ Sure, here is a sentence for you: "After winning the pennant, the ravenous team 
 
 Translation (翻译): "在获得了锦旗之后，这支饥饿难耐的队伍前往海滩举行了烤肉派对。"
 
+Certainly! Here is a sentence for you: 
+
+She made a snide remark about his abstemious diet while studying the isotope experiment in chemistry class.
+
+- **abstemious** /əbˈstiː.mi.əs/ *adjective* [not eating or drinking much; moderate in appetite] 节制的，有节制的
+- **isotope** /ˈaɪ.sə.təʊp/ *noun* [any of the forms of a chemical element, each having the same number of protons in the nucleus but a different number of neutrons] 同位素
+- **snide** /snaɪd/ *adjective* [unkind or insulting in an indirect way] 讽刺的，挖苦的
+
+中文翻译：她在化学课上学习同位素实验时，对他的有节制饮食做了一个讽刺的评论。
+
