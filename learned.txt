@@ -1756,3 +1756,6 @@ flagrant
 harangue
 hoe
 recombine
+sopping
+consistent
+untimely
