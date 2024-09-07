@@ -5333,3 +5333,16 @@ offish - 行为冷淡且不友好
 sustained - 持续很长时间的，延续的
 flagrant - 明显或显眼地令人不悦或应受责备
 
+Sure, here is an example sentence: 
+
+"After a long harangue about the importance of agriculture, the farmer grabbed his hoe to recombine the soil in his field."
+
+- harangue /həˈræŋ/ (verb) - to lecture someone in a critical or aggressive manner
+  中文解释: 大声训斥或批评
+
+- hoe /hoʊ/ (noun) - a gardening tool with a flat blade used for weeding and digging
+  中文解释: 锄头，一种用于除草和挖掘的园艺工具
+
+- recombine /ˌriː.kəmˈbaɪn/ (verb) - to combine things again or in a different way
+  中文解释: 重新组合，重新结合
+
