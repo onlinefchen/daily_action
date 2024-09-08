@@ -1762,3 +1762,6 @@ untimely
 revert
 serrate
 muted
+counterpart
+pallid
+infinity
