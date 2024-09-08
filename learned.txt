@@ -1759,3 +1759,6 @@ recombine
 sopping
 consistent
 untimely
+revert
+serrate
+muted
