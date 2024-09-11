@@ -5437,3 +5437,11 @@ Sure, here is a sentence for you:
   英文解释: shallow channel.
   中文解释: 排水沟。
 
+Sure, here's a sentence for you: "She touts the anatomical details of the loom she inherited from her grandmother."
+
+- tout /taʊt/ [verb]: to promote or praise energetically; 全力宣传或赞扬
+- anatomical /ˌænəˈtɑːmɪkl/ [adjective]: relating to bodily structure; 解剖的
+- loom /luːm/ [noun]: a weaving device for making fabric; 织布机
+
+Translation: "她热情地宣传她从祖母那里继承来的织布机的解剖细节。"
+
