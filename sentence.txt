@@ -5455,3 +5455,13 @@ Sure! Here is the sentence:
 
 中文翻译：他试图向他易怒的老板演示问题的单维性质，但她太心急了，没有听进去。
 
+Here's a casual sentence incorporating the words 'irreconcilable', 'ennui', and 'texture':
+
+"The irreconcilable ennui of scrolling through social media feeds was momentarily alleviated by the delightful texture of the fluffy blanket I wrapped myself in."
+
+中文翻译：无法调和的厌倦感在我浏览社交媒体时暂时减轻了，这时一件柔软的毯子给了我愉悦的触感。
+
+- irreconcilable /ɪˌrekənˈsaɪləbəl/ [adjective]: impossible to reconcile or bring into agreement; 矛盾的；不可调和的
+- ennui /ɑnˈwi/ [noun]: a feeling of listlessness and dissatisfaction arising from a lack of excitement or interest; 无聊；疲倦
+- texture /ˈtɛkstʃər/ [noun]: the feel, appearance, or consistency of a surface or a substance; 质地；手感
+

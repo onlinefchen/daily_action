@@ -1783,3 +1783,6 @@ loom
 demonstrate
 unidimensional
 irascible
+irreconcilable
+ennui
+texture
