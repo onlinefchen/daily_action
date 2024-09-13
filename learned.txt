@@ -1789,3 +1789,6 @@ texture
 babble
 espouse
 pollinate
+criteria
+encompass
+pharmaceutical
