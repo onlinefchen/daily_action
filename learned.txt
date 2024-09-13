@@ -1792,3 +1792,6 @@ pollinate
 criteria
 encompass
 pharmaceutical
+humid
+maritime
+authenticity
