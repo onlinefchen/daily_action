@@ -1798,3 +1798,6 @@ authenticity
 conformist
 ail
 tentative
+amnesia
+adopt
+sliver
