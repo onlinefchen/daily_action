@@ -1807,3 +1807,6 @@ herbivorous
 thicket
 bent
 prelude
+obedient
+deficit
+avarice
