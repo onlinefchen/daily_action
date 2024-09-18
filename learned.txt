@@ -1822,3 +1822,6 @@ profile
 hidebound
 tease
 cane
+convivial
+obsession
+irritate
