@@ -1819,3 +1819,6 @@ harass
 atrophy
 caulk
 profile
+hidebound
+tease
+cane
