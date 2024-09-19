@@ -5615,3 +5615,16 @@ International Phonetic Alphabet (IPA), English definition, and Chinese translati
 - obsession: /əbˈsɛʃən/ - a persistent or disturbing preoccupation with an often unreasonable idea or feeling - 痴迷；困扰
 - irritate: /ˈɪrɪˌteɪt/ - to annoy, bother, or provoke someone - 激怒；使生气
 
+Sure! Here is a sentence for you: 
+
+"The principal reason for the cancellation of the outdoor event was the pestilent weather, which caught the meteorology team off guard."
+
+**Words:**
+- Meteorology /ˌmiː.ti.əˈrɒl.ə.dʒi/ (noun): the study of the atmosphere and weather conditions
+- Principal /ˈprɪn.sə.pəl/ (noun): a person with a leading or primary role; the head of a school
+- Pestilent /ˈpɛs.tɪ.lənt/ (adjective): likely to cause infectious diseases; harmful or destructive
+
+**Translation:**
+
+“这次户外活动被取消的主要原因是瘟疫般的天气，让气象团队措手不及。”
+
