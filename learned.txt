@@ -1846,3 +1846,6 @@ emaciation
 upswing
 shear
 comatose
+protean
+duckling
+halcyon
