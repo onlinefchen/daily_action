@@ -1849,3 +1849,6 @@ comatose
 protean
 duckling
 halcyon
+sneaking
+pigment
+nepotism
