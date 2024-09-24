@@ -1858,3 +1858,6 @@ offend
 full-bodied
 supervise
 engaging
+coercion
+tenacity
+grimace

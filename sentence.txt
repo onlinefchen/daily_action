@@ -5748,3 +5748,15 @@ International Phonetic Alphabet (IPA), English Explanation, and Chinese Translat
 
 中文翻译：我负责监督一组饱满漂亮的演员，在戏剧中呈现出引人入胜的表演。
 
+Sure! Here's a sentence for you: 
+
+"Despite facing coercion, Sarah's tenacity never wavered and she greeted every challenge with a grimace."
+
+['kəʊˈɜːʃən] coercion - the practice of persuading someone to do something by using force or threats
+
+[təˈnæsɪti] tenacity - the quality of being determined and persistent
+
+['ɡrɪmes] grimace - an ugly, twisted expression on a person's face, typically expressing disgust or pain
+
+中文翻译：尽管面临强迫，莎拉的坚韧从未动摇，她用面露愁容的方式迎接每一个挑战。
+
