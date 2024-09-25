@@ -1864,3 +1864,6 @@ grimace
 code
 antiquity
 aggrieve
+endow
+stonewall
+levy
