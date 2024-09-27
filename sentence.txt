@@ -5818,3 +5818,13 @@ Sure, here is a sentence:
 
 **truculent** /ˈtruː.kjə.lənt/ - aggressively defiant; 好斗的，好战的
 
+Sure! Here is a sentence for you:
+
+"Her deceitful behavior may have been in vogue in preliterate societies, but honesty is valued more in modern times."
+
+['dɪˈsiːt] deceit - the action or practice of deceiving someone by concealing or misrepresenting the truth （欺骗，欺诈）
+[vəʊɡ] vogue - the prevailing fashion or style at a particular time （时尚，流行）
+[ˌpriːˈlɪtərət] preliterate - relating to a society that did not develop writing （文字不发达的）
+
+中文翻译：她的欺诈行为在文盲社会可能很流行，但在现代社会，诚实更受重视。
+

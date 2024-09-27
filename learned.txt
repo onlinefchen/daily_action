@@ -1876,3 +1876,6 @@ recruit
 disenchant
 caldron
 truculent
+deceit
+vogue
+preliterate
