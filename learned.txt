@@ -1882,3 +1882,6 @@ preliterate
 long-winded
 contend
 sedative
+canto
+pact
+marionette
