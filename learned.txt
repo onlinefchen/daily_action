@@ -1888,3 +1888,6 @@ marionette
 discerning
 temp
 Byzantine
+extort
+credit
+reign
