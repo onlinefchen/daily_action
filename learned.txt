@@ -1885,3 +1885,6 @@ sedative
 canto
 pact
 marionette
+discerning
+temp
+Byzantine
