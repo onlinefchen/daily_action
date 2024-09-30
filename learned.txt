@@ -1894,3 +1894,6 @@ reign
 inhabitant
 occult
 suffrage
+sybaritic
+reed
+oppose
