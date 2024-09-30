@@ -1891,3 +1891,6 @@ Byzantine
 extort
 credit
 reign
+inhabitant
+occult
+suffrage
