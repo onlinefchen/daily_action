@@ -1903,3 +1903,6 @@ prude
 charade
 predilection
 solemn
+criterion
+subdue
+stern
