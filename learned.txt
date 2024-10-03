@@ -1909,3 +1909,6 @@ stern
 pediatrics
 warmonger
 amicable
+bravura
+expansive
+elegy
