@@ -1918,3 +1918,6 @@ commit
 control
 dislocate
 withdraw
+superficiality
+secure
+typographical
