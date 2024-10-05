@@ -1924,3 +1924,6 @@ typographical
 lampoon
 appropriate
 apostasy
+closet
+delusion
+minion
