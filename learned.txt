@@ -1930,3 +1930,6 @@ minion
 civil
 chasm
 tempo
+tender
+tether
+nomad
