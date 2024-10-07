@@ -1933,3 +1933,6 @@ tempo
 tender
 tether
 nomad
+inscrutable
+solace
+provisory
