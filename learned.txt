@@ -1936,3 +1936,6 @@ nomad
 inscrutable
 solace
 provisory
+weather
+apprise
+prophecy
