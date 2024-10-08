@@ -1939,3 +1939,6 @@ provisory
 weather
 apprise
 prophecy
+throwback
+farewell
+shriek

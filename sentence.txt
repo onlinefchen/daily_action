@@ -6047,3 +6047,11 @@ Sure! Here is a sentence that includes the words 'weather,' 'apprise,' and 'prop
 
 Translation: "我查了天气预报，看起来今天稍后可能会下雨，这提示着暴风雨即将来临的预言。"
 
+Sure, here is a sentence for you: "The throwback photos at the farewell party caused a shriek of laughter from the guests."
+
+- throwback [ˈθroʊˌbæk] (n.): something that is reminiscent of the past; 回忆,怀旧之物；
+- farewell [ˌferˈwel] (n.): an expression of good wishes at parting; 告别,再见；
+- shriek [ʃriːk] (v.): to utter a loud, sharp, piercing cry; 尖叫，尖声叫喊。
+
+中文翻译：在告别派对上展示的怀旧照片引发了客人们的一阵尖叫笑声。
+
