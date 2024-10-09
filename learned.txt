@@ -1948,3 +1948,6 @@ stasis
 wrist
 negotiable
 slew
+solitude
+compact
+mercurial
