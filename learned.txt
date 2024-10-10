@@ -1954,3 +1954,6 @@ mercurial
 truncate
 ardent
 issue
+overriding
+torpid
+knack
