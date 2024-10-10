@@ -1951,3 +1951,6 @@ slew
 solitude
 compact
 mercurial
+truncate
+ardent
+issue
