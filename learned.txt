@@ -1957,3 +1957,6 @@ issue
 overriding
 torpid
 knack
+cornucopia
+pedestal
+waffle
