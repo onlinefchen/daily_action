@@ -1966,3 +1966,6 @@ sacrilegious
 alabaster
 peel
 overture
+detour
+dysfunctional
+continuation
