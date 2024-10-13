@@ -1972,3 +1972,6 @@ continuation
 permanent
 demagogue
 revelry
+deadlock
+affiliation
+concussion
