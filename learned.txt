@@ -1990,3 +1990,6 @@ yoke
 gnarled
 shove
 ablution
+desecrate
+infringe
+prolong
