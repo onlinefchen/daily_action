@@ -1993,3 +1993,6 @@ ablution
 desecrate
 infringe
 prolong
+restitution
+grant
+horizontal
