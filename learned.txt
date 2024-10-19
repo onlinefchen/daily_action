@@ -2005,3 +2005,6 @@ siren
 nonchalant
 colonnade
 jerk
+excavate
+evaporate
+lambaste
