@@ -2008,3 +2008,6 @@ jerk
 excavate
 evaporate
 lambaste
+verify
+tag
+careworn
