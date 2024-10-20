@@ -2014,3 +2014,6 @@ careworn
 preempt
 abreast
 definition
+leniency
+sensitivity
+talon
