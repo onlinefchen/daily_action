@@ -2011,3 +2011,6 @@ lambaste
 verify
 tag
 careworn
+preempt
+abreast
+definition
