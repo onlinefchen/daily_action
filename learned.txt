@@ -2017,3 +2017,6 @@ definition
 leniency
 sensitivity
 talon
+turret
+loosen
+defiance
