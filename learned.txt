@@ -2023,3 +2023,6 @@ defiance
 render
 dialect
 salutary
+batch
+tawdry
+spackle
