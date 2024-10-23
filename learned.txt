@@ -2032,3 +2032,6 @@ voluble
 homogeneous
 decompose
 sentient
+shale
+skew
+ceramic
