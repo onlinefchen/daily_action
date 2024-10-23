@@ -2029,3 +2029,6 @@ spackle
 attain
 gratitude
 voluble
+homogeneous
+decompose
+sentient
