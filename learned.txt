@@ -2035,3 +2035,6 @@ sentient
 shale
 skew
 ceramic
+pending
+liken
+mimic
