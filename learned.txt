@@ -2044,3 +2044,6 @@ quartet
 mammal
 witticism
 amass
+accentuate
+comprehend
+celestial
