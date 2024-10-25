@@ -2041,3 +2041,6 @@ mimic
 tauten
 derogatory
 quartet
+mammal
+witticism
+amass
