@@ -2047,3 +2047,6 @@ amass
 accentuate
 comprehend
 celestial
+glowing
+dyslexia
+intact
