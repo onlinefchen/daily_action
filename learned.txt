@@ -2056,3 +2056,6 @@ immunity
 tambourine
 disinterested
 casual
+husk
+futile
+entice
