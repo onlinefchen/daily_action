@@ -2059,3 +2059,6 @@ casual
 husk
 futile
 entice
+purloin
+adroit
+mast
