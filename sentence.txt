@@ -6520,3 +6520,15 @@ Sure, here is a sentence for you:
 
 希望这句话对你有所帮助！
 
+Sure! Here is a sentence for you:
+
+"The orchestra's performance was marred by a lack of dignity in their behavior backstage."
+
+["ði ˈɔːrkɪstrəz pərˈfɔːrməns wəz mɑːrd ˈbaɪ ə læk əv ˈdɪɡnəti ɪn ðer biˈheɪvjər ˌbækˈsteɪdʒ."]
+
+- orchestra ['ɔːrkɪstrə] (n.) - a large group of musicians who play different instruments together
+- dignity ['dɪɡnəti] (n.) - the quality of being worthy of honor or respect
+- marred [mɑːrd] (v.) - spoiled or damaged
+
+中文翻译：管弦乐团的表演被后台行为中缺乏尊严所损坏。
+
