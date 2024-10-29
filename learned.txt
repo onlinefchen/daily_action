@@ -2068,3 +2068,6 @@ marred
 robe
 morsel
 scorn
+impulse
+preeminent
+supernova
