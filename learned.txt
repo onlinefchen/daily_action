@@ -2077,3 +2077,6 @@ hoard
 comma
 nip
 discipline
+overshadow
+interchangeable
+untoward
