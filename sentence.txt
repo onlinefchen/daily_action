@@ -6617,3 +6617,11 @@ International Phonetic Alphabet (IPA), English Definitions, and Chinese Translat
 - countermand /ˌkaʊntərˈmænd/ [ˌkaʊntərˈmænd] - to revoke or cancel (an order); 撤销，取消
 - viability /ˌvaɪəˈbɪləti/ [ˌvaɪəˈbɪləti] - the ability to work successfully or be effective; 可行性，生存能力
 
+Sure, here is a sentence for you: "The smell of freshly baked bread pervaded the kitchen as a gaggle of geese waddled into the yard, leaving muddy footprints that I had to scrub clean."
+
+- pervade [pərˈveɪd] (v): to spread throughout or permeate every part of something
+- gaggle [ˈɡæɡəl] (n): a group of noisy, chattering geese
+- scrub [skrʌb] (v): to clean or rub something hard with a brush in order to remove dirt or stains
+
+中文翻译： "新鲜烤面包的香味弥漫在厨房里，一群鹅嘎嘎叫着走进院子，留下了泥泞的脚印，我得清洗干净。"
+
