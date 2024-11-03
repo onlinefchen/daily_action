@@ -2098,3 +2098,6 @@ definite
 cabal
 jingoism
 exculpate
+figurative
+gaucherie
+bruise
