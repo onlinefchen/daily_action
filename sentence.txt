@@ -6645,3 +6645,11 @@ Sure! Here is a casual sentence that includes the words "incongruity," "miracle,
 
 中文翻译：尽管情况的不协调性，玛丽相信奇迹的明确可能性。
 
+"Those politicians are known for their cabal-like behavior, promoting jingoism to rally support while attempting to exculpate themselves from any wrongdoing." 
+
+['kəˈbæl] - A secret political clique or faction
+[ˈdʒɪŋɡoʊˌɪzəm] - Extreme patriotism, especially in the form of aggressive or warlike foreign policy
+[ɪksˈkʌlˌpeɪt] - Show or declare that someone is not guilty of wrongdoing
+
+“那些政治家以其类似秘密结社的行为而著名，鼓吹极端民族主义以集会支持者，同时试图证明自己没有任何过错。”
+
