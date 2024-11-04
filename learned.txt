@@ -2101,3 +2101,6 @@ exculpate
 figurative
 gaucherie
 bruise
+roster
+pendulum
+fractious
