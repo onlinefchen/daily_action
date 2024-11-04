@@ -2104,3 +2104,6 @@ bruise
 roster
 pendulum
 fractious
+accompany
+dissertation
+contagious
