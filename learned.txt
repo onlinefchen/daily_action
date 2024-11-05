@@ -2107,3 +2107,6 @@ fractious
 accompany
 dissertation
 contagious
+fracture
+patch
+garner

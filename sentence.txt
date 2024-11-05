@@ -6686,3 +6686,13 @@ Sure! Here is a sentence for you:
 
 Translation: 我请朋友陪我去图书馆写毕业论文，但他拒绝了，因为担心感染我传染的感冒。
 
+Sure, here is a colloquial sentence that includes 'fracture', 'patch', and 'garner':
+
+"After the accident, he had to get a cast for his fracture, then he used a patch to fix up the hole in his jeans, and finally he was able to garner enough attention to raise money for his medical bills."
+
+- fracture /ˈfræk.tʃər/ (n.): a break or crack in a bone or hard material
+- patch /pætʃ/ (n.): a piece of material used to cover or repair a hole or tear
+- garner /ˈɡɑːr.nər/ (v.): to gather or collect something, especially information or support
+
+Translation: "事故发生后，他必须为他的骨折做石膏，然后使用一块补丁修补牛仔裤上的破洞，最终，他得到足够的关注，为自己的医疗费用筹集了足够的资金。"
+
