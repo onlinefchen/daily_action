@@ -6706,3 +6706,11 @@ Sure! Here is a sentence for you:
 
 **中文翻译**：在探索这座城市时，我们偶然发现了一个具有历史意义的地标，不仅富有教育意义而且引人入胜，我们甚至还遇到了一群友好的当地人，他们热心地分享自己的知识。
 
+Sentence: The stodgy government's belief in its own supremacy can intoxicate those who blindly follow its lead.
+
+- stodgy /ˈstɒdʒi/ (adjective) - dull and uninspired; lacking in excitement or originality
+- supremacy /suːˈprɛməsi/ (noun) - the state of being superior to all others in authority, power, or status
+- intoxicate /ɪnˈtɒksɪkeɪt/ (verb) - to excite or exhilarate someone intensely; to poison someone
+
+Translation: 这个官僚政府对自身至高无上的信念可以让那些盲目追随其领导的人陶醉其中。
+
