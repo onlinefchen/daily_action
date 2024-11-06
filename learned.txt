@@ -2116,3 +2116,6 @@ landmark
 stodgy
 supremacy
 intoxicate
+thematic
+bequest
+angular
