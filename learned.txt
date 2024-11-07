@@ -2122,3 +2122,6 @@ angular
 ragtime
 ultimate
 seedling
+entangle
+garment
+encumber
