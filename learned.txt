@@ -2146,3 +2146,6 @@ crumble
 whimsical
 dote
 indolent
+rivet
+circular
+paraphrase
