@@ -2149,3 +2149,6 @@ indolent
 rivet
 circular
 paraphrase
+pestle
+oasis
+deduct

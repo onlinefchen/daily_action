@@ -6852,3 +6852,11 @@ Sure! Here is a casual sentence with the words 'rivet', 'circular', and 'paraphr
 - circular [ˈsɜːrkjələr] (adj.): shaped like a circle; round or rounded. 中文解释：圆形的，环形的。
 - paraphrase [ˈpærəfreɪz] (v.): to express the meaning of something using different words, especially to achieve greater clarity. 中文解释：释义，解释。
 
+Sure, here is a sentence for you: "I used a pestle to grind the spices in the oasis before deciding to deduct the cost of my trip from my savings."
+
+- pestle /ˈpɛsəl/ (n): a heavy blunt tool used for crushing, grinding, or mixing substances such as herbs or spices
+- oasis /oʊˈeɪsɪs/ (n): a place or area in a desert where there is water and therefore plants and trees and sometimes a village or town
+- deduct /dɪˈdʌkt/ (v): to take away an amount or part from a total
+
+中文翻译：在一个绿洲中，我用擀面杖研磨香料，然后决定从我的储蓄中扣除旅行费用。
+
