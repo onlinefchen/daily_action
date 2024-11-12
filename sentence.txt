@@ -6860,3 +6860,13 @@ Sure, here is a sentence for you: "I used a pestle to grind the spices in the oa
 
 中文翻译：在一个绿洲中，我用擀面杖研磨香料，然后决定从我的储蓄中扣除旅行费用。
 
+Sure, here is a sentence for you: 
+
+"Despite their ineffectual attempts to break free, the fisherman's ironclad determination ensured that the skiff stayed securely anchored to the shore."
+
+- ineffectual [ˌɪnɪˈfɛktʃuəl] (adj.) not producing the desired effect; lacking effectiveness
+- ironclad [ˈaɪərnˌklæd] (adj.) extremely strong or secure; rigorously binding or reassuring
+- skiff [skɪf] (n.) a small boat usually for a few persons
+
+Translation: 尽管他们试图摆脱的方法无效，渔夫坚定不移的决心确保小船安全地停泊在岸边。
+

@@ -2152,3 +2152,6 @@ paraphrase
 pestle
 oasis
 deduct
+ineffectual
+ironclad
+skiff
