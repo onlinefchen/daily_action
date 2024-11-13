@@ -2158,3 +2158,6 @@ skiff
 loath
 neurology
 wither
+convergent
+verisimilar
+retard
