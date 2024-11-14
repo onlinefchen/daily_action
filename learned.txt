@@ -2161,3 +2161,6 @@ wither
 convergent
 verisimilar
 retard
+summarily
+dupe
+transaction
