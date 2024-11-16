@@ -6935,3 +6935,14 @@ Sure, here is a sentence for you: "The desirable largesse from the company party
 
 Translation in Chinese: "公司派对上可嘉的慷慨赠予弥补了会议期间提供的枯燥无味的小吃。"
 
+Sure, here is a sentence for you: 
+
+"I tried to plod through the dense material, but only found a few pertinent details amongst the clot of information."
+
+- pertinent /ˈpɜːrtɪnənt/ (adj.) : relevant or applicable to a particular matter; 相关的，适当的
+- plod /plɒd/ (v.) : to walk heavily or slowly; 沉重缓慢地走
+- clot /klɒt/ (n.) : a thick mass of coagulated liquid, especially blood; 凝块
+
+Translation: 
+"我试图艰难阅读这些浓密的资料，但只在众多信息的混沌中找到了几个相关的细节。"
+
