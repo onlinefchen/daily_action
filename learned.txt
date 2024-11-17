@@ -2182,3 +2182,6 @@ civility
 complacent
 shirk
 ginger
+approximate
+iconoclast
+vapid
