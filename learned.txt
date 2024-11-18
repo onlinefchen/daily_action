@@ -2185,3 +2185,6 @@ ginger
 approximate
 iconoclast
 vapid
+loop
+rind
+debacle
