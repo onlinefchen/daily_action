@@ -2197,3 +2197,6 @@ stalemate
 detach
 resuscitate
 impromptu
+archetype
+alternate
+artifice
