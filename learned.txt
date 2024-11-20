@@ -2200,3 +2200,6 @@ impromptu
 archetype
 alternate
 artifice
+simultaneous
+cession
+repartee
