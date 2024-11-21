@@ -2203,3 +2203,6 @@ artifice
 simultaneous
 cession
 repartee
+contemptuous
+archive
+deplore
