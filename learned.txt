@@ -2206,3 +2206,6 @@ repartee
 contemptuous
 archive
 deplore
+hankering
+fiat
+abut
