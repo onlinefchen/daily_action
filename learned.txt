@@ -2212,3 +2212,6 @@ abut
 vengeance
 ecstasy
 conduit
+crook
+plaster
+sedulity
