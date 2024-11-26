@@ -2233,3 +2233,6 @@ vagrancy
 genteel
 redemptive
 outmaneuver
+chancellor
+expurgate
+specifics
