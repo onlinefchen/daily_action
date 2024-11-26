@@ -2236,3 +2236,6 @@ outmaneuver
 chancellor
 expurgate
 specifics
+contrition
+sash
+secretive
