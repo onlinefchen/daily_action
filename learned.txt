@@ -2251,3 +2251,6 @@ ineluctable
 resplendent
 sham
 acrid
+gimmick
+brittle
+muscular
