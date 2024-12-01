@@ -2263,3 +2263,6 @@ phlegmatic
 motto
 cramp
 populace
+fade
+staple
+psyche
