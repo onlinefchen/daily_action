@@ -2266,3 +2266,6 @@ populace
 fade
 staple
 psyche
+pious
+syllabus
+implicit
