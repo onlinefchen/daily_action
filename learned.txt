@@ -2272,3 +2272,6 @@ implicit
 pied
 regulate
 aquifer
+frequency
+gambol
+invigorating
