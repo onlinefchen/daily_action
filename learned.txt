@@ -2296,3 +2296,6 @@ deference
 ranger
 legerdemain
 spiny
+modish
+accurate
+impact
