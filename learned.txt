@@ -2293,3 +2293,6 @@ imposing
 flint
 squirrel
 deference
+ranger
+legerdemain
+spiny
