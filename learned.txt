@@ -2320,3 +2320,6 @@ bait
 vie
 conventional
 rage
+barb
+hubris
+tyro
