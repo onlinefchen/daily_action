@@ -7505,3 +7505,12 @@ Sure! Here is a sentence for you:
 
 Translation in Chinese: "不要让他的尖刻评论和傲慢态度吓倒你，他只是这个领域的新手。"
 
+Sentence: The judge slammed the gavel down in an atrocious display of power, much like a hammer striking fear into those in the courtroom.
+
+中文翻译: 法官用力敲下木槌，展示出一种令人骇然的权力，就像锤子把惧怕带给在庭审室的人们一样。
+
+Words:
+- gavel [ˈɡævəl] (n.): a small ceremonial mallet used by a judge or auctioneer to signal a formal decision or the closing of an auction. (法官所用的小锤)
+- atrocious [əˈtroʊʃəs] (adj.): extremely wicked, brutal, or cruel; shocking bad or unpleasant. (极恶劣的)
+- hammer [ˈhæmər] (n.): a tool with a heavy metal head mounted at a right angle at the end of a handle, used for jobs such as breaking things or driving in nails. (锤子)
+
