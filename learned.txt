@@ -2332,3 +2332,6 @@ depraved
 noncommittal
 fallibility
 plangent
+tournament
+covet
+reverse
