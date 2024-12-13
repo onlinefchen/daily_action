@@ -2335,3 +2335,6 @@ plangent
 tournament
 covet
 reverse
+forbid
+ebb
+olfaction
