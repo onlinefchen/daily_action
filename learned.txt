@@ -2338,3 +2338,6 @@ reverse
 forbid
 ebb
 olfaction
+characterize
+relent
+striated
