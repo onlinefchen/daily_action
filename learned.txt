@@ -2344,3 +2344,6 @@ striated
 pacifist
 calculus
 inimical
+fatal
+languid
+carrion
