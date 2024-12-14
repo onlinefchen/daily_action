@@ -2341,3 +2341,6 @@ olfaction
 characterize
 relent
 striated
+pacifist
+calculus
+inimical
