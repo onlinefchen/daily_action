@@ -2347,3 +2347,6 @@ inimical
 fatal
 languid
 carrion
+exhilarate
+barren
+clique
