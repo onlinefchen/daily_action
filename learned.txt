@@ -2353,3 +2353,6 @@ clique
 lava
 temptation
 prune
+smother
+souvenir
+frequent
