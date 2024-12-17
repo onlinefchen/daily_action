@@ -2359,3 +2359,6 @@ frequent
 squalid
 spendthrift
 divert
+conscientious
+hunch
+interrogate
