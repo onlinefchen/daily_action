@@ -2365,3 +2365,6 @@ interrogate
 comedienne
 quiver
 minutia
+gear
+foment
+restored
