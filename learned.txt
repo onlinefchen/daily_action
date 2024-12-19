@@ -2371,3 +2371,6 @@ restored
 enchant
 soil
 altruism
+gamble
+unscrupulous
+dogmatism
