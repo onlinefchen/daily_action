@@ -2383,3 +2383,6 @@ intangible
 scalding
 airborne
 interlude
+rescind
+sadden
+seam
