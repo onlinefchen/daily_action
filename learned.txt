@@ -2398,3 +2398,6 @@ flock
 commodious
 ridge
 trinket
+egalitarian
+heal
+sensation
