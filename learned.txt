@@ -2401,3 +2401,6 @@ trinket
 egalitarian
 heal
 sensation
+jolt
+extant
+acquaintance
