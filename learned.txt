@@ -2404,3 +2404,6 @@ sensation
 jolt
 extant
 acquaintance
+nova
+drastic
+exodus
