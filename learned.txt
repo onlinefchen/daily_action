@@ -2407,3 +2407,6 @@ acquaintance
 nova
 drastic
 exodus
+opalescence
+disgruntle
+tenable
