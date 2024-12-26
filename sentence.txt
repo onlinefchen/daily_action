@@ -7840,3 +7840,11 @@ Sure! Here is a sentence that includes the words 'irredeemable', 'avenge', and '
 **Translation:**
 "基于他对我家人的所作所为，他的行为是无法挽回的，我发誓我会对他们进行复仇，无论是否有授权。"
 
+Sentence: The way he withheld praise from his paunchy coworker only served to rankle others in the office.
+
+'rankle' /ˈræŋkəl/ (v.) - to cause persistent irritation or resentment
+'withhold' /wɪðˈhoʊld/ (v.) - to refuse to give or provide
+'paunchy' /ˈpɔːntʃi/ (adj.) - having a large and protruding belly
+
+Translation: 他对他那个有大肚腩的同事没有赞美，只会激怒办公室里其他人。
+
