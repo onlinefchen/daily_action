@@ -7888,3 +7888,17 @@ Sure! Here is a sentence for you: "I always jot down my peccadillos in a diary b
 
 希望这个句子能帮助你更好地学习这些单词！
 
+Sure, here is a sentence for you: "The neutron experiment showed a significant deviation from the expected results due to bureaucratic delays in obtaining necessary materials."
+
+- neutron [ˈnjuː.trɒn] (an uncharged elementary particle)
+    - English definition: a subatomic particle with no electric charge that is found in the nucleus of an atom
+    - 中文定义：核子
+- deviation [ˌdiː.viˈeɪ.ʃən] (a departure from what is considered normal or acceptable)
+    - English definition: the action of departing from an established course or accepted standard
+    - 中文定义：偏差
+- bureaucracy [bjʊˈrɒkrəsi] (a system of government in which most of the important decisions are made by state officials rather than by elected representatives)
+    - English definition: a system of government in which most of the important decisions are made by state officials rather than by elected representatives
+    - 中文定义：官僚制
+
+中文翻译：由于官僚主义延迟获取必要材料，中子实验显示了与预期结果明显偏差。
+
