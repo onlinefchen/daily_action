@@ -7912,3 +7912,13 @@ Sure, here is a sentence for you:
 
 Translation: "淌下来的污水浸透了多孔的墙壁，在地下室造成了一道异味的封锁。"
 
+Sure! Here is a sentence for you:
+
+"The gaudy decorations in the room did little to facilitate a sense of relaxation, while his curt response left her feeling uneasy."
+
+'facilitate' [fəˈsɪl.ɪ.teɪt] - to make an action or process easy or easier
+'gaudy' [ˈɡɔː.di] - too bright and showy, in a way that lacks taste
+'curt' [kɜːt] - rudely brief or abrupt in speech or manner
+
+中文翻译：房间里花哨的装饰并未有效促进放松感，而他的简短回答让她感到不安。
+
