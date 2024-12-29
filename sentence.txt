@@ -7922,3 +7922,13 @@ Sure! Here is a sentence for you:
 
 中文翻译：房间里花哨的装饰并未有效促进放松感，而他的简短回答让她感到不安。
 
+Sure! Here is a casual sentence that includes the words 'preamble', 'extrapolate', and 'foliage':
+
+"Before we jump to any conclusions, let's first read the preamble of the report, then we can extrapolate the data and take a walk in the park to admire the beautiful foliage."
+
+- **preamble** /ˈpriːæmbəl/ (noun) - an introductory statement; 序言、前言
+- **extrapolate** /ɪkˈstræpəˌleɪt/ (verb) - to estimate or conclude something by extending or projecting known information; 推测、推断
+- **foliage** /ˈfoʊliɪdʒ/ (noun) - plant leaves, collectively; 植物叶子、树叶
+
+中文翻译：在我们得出任何结论之前，让我们先阅读报告的序言，然后我们可以推断数据并在公园漫步，欣赏美丽的树叶。
+
