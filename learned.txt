@@ -2440,3 +2440,6 @@ foliage
 expeditious
 robust
 culinary
+exempt
+pauper
+resume
