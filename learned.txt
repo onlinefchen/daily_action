@@ -2458,3 +2458,6 @@ miserly
 turpitude
 convenience
 queue
+overbearing
+adamant
+verdant
