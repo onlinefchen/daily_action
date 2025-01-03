@@ -2461,3 +2461,6 @@ queue
 overbearing
 adamant
 verdant
+philately
+bonnet
+cougar
