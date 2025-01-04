@@ -2467,3 +2467,6 @@ cougar
 enflame
 incommensurate
 appetizer
+awe
+operetta
+context
