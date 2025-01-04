@@ -2470,3 +2470,6 @@ appetizer
 awe
 operetta
 context
+elementary
+originality
+provocation
