@@ -2473,3 +2473,6 @@ context
 elementary
 originality
 provocation
+discern
+overexposure
+slouch
