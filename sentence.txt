@@ -8102,3 +8102,13 @@ He used his wit to outwit his competitors and became a forerunner in the industr
 
 Chinese translation: 他运用智慧胜过了竞争对手，并成为了行业的先驱，但他的成功却被嫉妒的竞争对手们所猛烈反击所掩盖。
 
+Sure! Here is a sentence for you:
+
+"The smoke detector emitted a loud beeping sound to alert us of the redundancy in the fire alarm system."
+
+['ɪˈmɪt] - to send out or give off
+[əˈlɜrt] - to warn or notify
+[rɪˈdʌndənsi] - the state of being unnecessary or superfluous
+
+中文翻译：烟雾探测器发出了尖锐的哔哔声，警示我们火灾报警系统存在冗余问题。
+
