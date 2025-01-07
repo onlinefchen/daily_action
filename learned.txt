@@ -2488,3 +2488,6 @@ redundancy
 antihistamine
 quench
 explosive
+lassitude
+sibilant
+postpone
