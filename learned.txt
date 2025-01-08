@@ -2491,3 +2491,6 @@ explosive
 lassitude
 sibilant
 postpone
+impressionable
+banish
+imitation
