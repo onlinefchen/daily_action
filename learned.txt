@@ -2497,3 +2497,6 @@ imitation
 audit
 landlocked
 avow
+aerate
+corrode
+provender
