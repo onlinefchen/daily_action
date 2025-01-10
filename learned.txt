@@ -2506,3 +2506,6 @@ unprincipled
 straightforward
 annexation
 tolerance
+cosmic
+sequester
+idle
