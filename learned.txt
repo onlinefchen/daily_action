@@ -2503,3 +2503,6 @@ provender
 humble
 diabetes
 unprincipled
+straightforward
+annexation
+tolerance
