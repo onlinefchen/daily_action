@@ -2512,3 +2512,6 @@ idle
 lace
 coeval
 judicious
+emaciate
+unstinting
+comparison
