@@ -2521,3 +2521,6 @@ forum
 allude
 equivocation
 flail
+enlighten
+irrepressible
+subside
