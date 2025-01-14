@@ -2527,3 +2527,6 @@ subside
 entreaty
 empyreal
 digit
+anthology
+vulgar
+musket
