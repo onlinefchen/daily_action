@@ -8260,3 +8260,11 @@ Sure, here's a sentence for you: "The anthology of classic American literature w
 
 中文翻译：这部经典美国文学选集中，竟然穿插着粗俗的笑话和火铳的提及。
 
+Sure! Here is a sentence for you: "After cleaning the kitchen, there was a residue of grease on the stove, highlighting the need for using ancillary products like degreasers as a precursor to deep cleaning." 
+
+- residue [ˈrɛzɪˌdu] (n): a small amount of something that remains after the main part has gone or been taken
+- ancillary [ˈæn.sə.lə.ri] (adj): providing necessary support to the primary activities or operation of an organization, system, etc.
+- precursor [prɪˈkɜrsər] (n): a person or thing that comes before another of the same kind and leads to its development
+
+中文翻译：在清洗厨房之后，炉子上留下了一层油渍，凸显了需要使用附属产品如除油剂作为深度清洁的先导。
+
