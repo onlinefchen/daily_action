@@ -2533,3 +2533,6 @@ musket
 residue
 ancillary
 precursor
+modicum
+unfounded
+incur
