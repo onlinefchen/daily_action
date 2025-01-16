@@ -2542,3 +2542,6 @@ subdued
 warp
 sonnet
 abstention
+kernel
+manuscript
+temper
