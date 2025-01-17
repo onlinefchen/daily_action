@@ -2545,3 +2545,6 @@ abstention
 kernel
 manuscript
 temper
+delve
+equity
+monomania
