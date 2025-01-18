@@ -2554,3 +2554,6 @@ treaty
 casualty
 bilingual
 generalize
+trophy
+equator
+meager
