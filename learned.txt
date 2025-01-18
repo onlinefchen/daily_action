@@ -2551,3 +2551,6 @@ monomania
 finesse
 acknowledge
 treaty
+casualty
+bilingual
+generalize
