@@ -2557,3 +2557,6 @@ generalize
 trophy
 equator
 meager
+plagiarism
+thwart
+sodden
