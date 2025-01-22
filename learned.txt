@@ -2578,3 +2578,6 @@ concord
 impuissance
 interrupt
 digress
+exposition
+stricture
+equable
