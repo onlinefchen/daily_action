@@ -2575,3 +2575,6 @@ wry
 revenge
 sop
 concord
+impuissance
+interrupt
+digress
