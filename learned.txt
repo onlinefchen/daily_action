@@ -2584,3 +2584,6 @@ equable
 morbid
 faction
 gourmand
+trigger
+practitioner
+astrolabe
