@@ -2596,3 +2596,6 @@ winding
 defendant
 recast
 unpalatable
+demoralize
+lull
+retouch
