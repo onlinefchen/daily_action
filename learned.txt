@@ -2605,3 +2605,6 @@ irrigate
 infirm
 brandish
 fantasy
+penchant
+insular
+jettison
