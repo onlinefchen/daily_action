@@ -2608,3 +2608,6 @@ fantasy
 penchant
 insular
 jettison
+strait
+finale
+serial
