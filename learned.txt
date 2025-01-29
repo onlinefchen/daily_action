@@ -2617,3 +2617,6 @@ yawn
 taper
 terrain
 aorta
+bend
+flatten
+temporize
