@@ -2620,3 +2620,6 @@ aorta
 bend
 flatten
 temporize
+den
+collateral
+vaccinate
