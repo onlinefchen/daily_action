@@ -2623,3 +2623,6 @@ temporize
 den
 collateral
 vaccinate
+ugly
+havoc
+resident
