@@ -8631,3 +8631,11 @@ Sure, here is the sentence: "The ugly graffiti caused havoc among the residents 
 
 中文翻译："那些丑陋的涂鸦在居民中间引起了混乱。"
 
+Sure, here is a sentence for you: "She felt a gust of fresh, vaporous air as she stepped outside, appreciating the pragmatic decision to open the windows." 
+
+- gust [ɡʌst] (n): a sudden strong rush of wind
+- pragmatic [præɡˈmætɪk] (adj): dealing with things sensibly and realistically in a way that is based on practical rather than theoretical considerations
+- vaporous [ˈveɪpərəs] (adj): consisting of or resembling vapor; misty
+
+中文翻译: "当她走出去时，她感受到一阵清新而湿润的风；她欣赏着开窗的务实决定。"
+

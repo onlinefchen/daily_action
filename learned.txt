@@ -2626,3 +2626,6 @@ vaccinate
 ugly
 havoc
 resident
+gust
+pragmatic
+vaporous
