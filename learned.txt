@@ -2650,3 +2650,6 @@ repertoire
 ordinance
 exclusive
 crouch
+ruminant
+ruthlessness
+scythe
