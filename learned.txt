@@ -2647,3 +2647,6 @@ pellucid
 scissor
 bourgeois
 repertoire
+ordinance
+exclusive
+crouch
