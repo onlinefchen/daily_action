@@ -8850,3 +8850,11 @@ Sure, here is a sentence:
 
 Translation: "紧张的情况只会消磨他的耐心，导致其无限地延长。"
 
+Sure! Here is a sentence for you: "Don't be fooled by the impostor in the gorilla suit, with a caveat that he might escape from the zoo."
+
+- impostor [ɪmˈpɑːstər] (n.) - a person who pretends to be someone else in order to deceive others
+- gorilla [ɡəˈrɪlə] (n.) - a large ape native to Africa
+- caveat [ˈkæviæt] (n.) - a warning or caution
+
+Translation: "不要被穿着大猩猩服装的冒牌者愚弄，但要注意他可能会逃出动物园."
+
