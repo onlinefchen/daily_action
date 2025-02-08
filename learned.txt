@@ -2677,3 +2677,6 @@ zone
 commonsense
 pottery
 coincide
+fraught
+gnaw
+elongate
