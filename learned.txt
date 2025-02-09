@@ -2683,3 +2683,6 @@ elongate
 impostor
 gorilla
 caveat
+pose
+pelf
+intuitive
