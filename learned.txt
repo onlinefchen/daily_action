@@ -2689,3 +2689,6 @@ intuitive
 ironic
 canon
 mansion
+curator
+polarity
+exposure
