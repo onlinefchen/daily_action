@@ -2692,3 +2692,6 @@ mansion
 curator
 polarity
 exposure
+assemble
+scarf
+explicate
