@@ -2698,3 +2698,6 @@ explicate
 vicious
 aseptic
 deterioration
+quack
+betroth
+visionary
