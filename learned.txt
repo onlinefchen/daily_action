@@ -2695,3 +2695,6 @@ exposure
 assemble
 scarf
 explicate
+vicious
+aseptic
+deterioration
