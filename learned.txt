@@ -2701,3 +2701,6 @@ deterioration
 quack
 betroth
 visionary
+gloom
+impermanent
+overwhelm
