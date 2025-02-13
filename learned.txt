@@ -2710,3 +2710,6 @@ sentiment
 admire
 decadence
 complaisant
+savage
+hallmark
+reek
