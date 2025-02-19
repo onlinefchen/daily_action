@@ -2743,3 +2743,6 @@ discourse
 enclosure
 crucial
 despot
+captious
+default
+epitaph

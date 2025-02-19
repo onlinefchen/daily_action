@@ -9104,3 +9104,21 @@ Sure, here is a sentence that includes the words "enclosure," "crucial," and "de
 - crucial: 关键的，至关重要的
 - despot: 暴君，专制者
 
+Sure! Here is an example sentence:
+
+"Don't be so captious about every little default in his work, it's not like he's writing your epitaph."
+
+International Phonetic Alphabet (IPA), English Definitions, and Chinese Translations:
+
+- captious /ˈkæpʃəs/: excessively critical or quick to find fault.
+  中文解释：过分挑剔的
+
+- default /dɪˈfɔlt/: failure to fulfill an obligation, especially to repay a loan or appear in a court of law.
+  中文解释：违约
+
+- epitaph /ˈɛpɪˌtæf/: a phrase or statement written in memory of a person who has died, especially as an inscription on a tombstone.
+  中文解释：墓志铭
+
+中文翻译：
+"不要对他的每一个小错误如此挑剔，这可不像他在写你的墓志铭。"
+
