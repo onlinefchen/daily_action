@@ -2746,3 +2746,6 @@ despot
 captious
 default
 epitaph
+haughty
+subject
+soporific
