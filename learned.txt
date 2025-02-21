@@ -2758,3 +2758,6 @@ bouquet
 retreat
 stake
 dearth
+summon
+hush
+allay
