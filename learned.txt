@@ -2764,3 +2764,6 @@ allay
 dapper
 abridge
 barrier
+bribe
+mean
+mortality
