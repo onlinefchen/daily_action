@@ -2761,3 +2761,6 @@ dearth
 summon
 hush
 allay
+dapper
+abridge
+barrier
