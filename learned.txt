@@ -2767,3 +2767,6 @@ barrier
 bribe
 mean
 mortality
+moan
+unfeigned
+adjust
