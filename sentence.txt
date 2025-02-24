@@ -9229,3 +9229,13 @@ Explanation:
 Translation:
 "每次她试图吃那块嚼不动的牛排时，她都会感到一阵沮丧，导致她快速割断了无法咀嚼的肉块。"
 
+Sure, here is a sentence that includes the words 'mollycoddle', 'slake', and 'iota':
+
+Don't mollycoddle that child, he needs to learn independence and not an iota of his thirst will be slaked unless he gets some water.
+
+['mɑli'kɑd(ə)l] (v): to treat someone with too much care or kindness, spoiling them
+['sleɪk] (v): to quench or satisfy (one's thirst, desires, etc.)
+[aɪˈoʊtə] (n): a very small amount
+
+中文翻译：不要溺爱那个孩子，他需要学会独立，只有他喝到一点水才能解渴。
+
