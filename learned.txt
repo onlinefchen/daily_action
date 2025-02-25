@@ -2782,3 +2782,6 @@ iota
 sloth
 inflict
 tally
+bolster
+pacify
+vouch
