@@ -2779,3 +2779,6 @@ paroxysm
 mollycoddle
 slake
 iota
+sloth
+inflict
+tally
