@@ -2785,3 +2785,6 @@ tally
 bolster
 pacify
 vouch
+scroll
+mischievous
+testify
