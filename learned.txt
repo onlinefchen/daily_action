@@ -2788,3 +2788,6 @@ vouch
 scroll
 mischievous
 testify
+vitriolic
+presupposition
+stubborn
