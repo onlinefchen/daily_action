@@ -9307,3 +9307,10 @@ Sure! Here is a casual sentence for you:
 [English: to handle or control (a ball or object) clumsily] 
 [中文: 笨拙地处理或控制（球或物体）]
 
+Sure, here is a sentence for you: "The divergent opinions on the issue caused tensions to distend among the cavalry unit."  
+- divergent [daɪˈvɜːrdʒənt] (adj.) - differing, deviating from a standard or norm
+- distend [dɪˈstɛnd] (v.) - to swell or expand from internal pressure
+- cavalry [ˈkævəlri] (n.) - a group of soldiers who fight battles on horseback
+  
+Translation: "在这个问题上意见分歧导致了骑兵单位之间的紧张局势不断升级。"
+

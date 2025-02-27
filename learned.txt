@@ -2794,3 +2794,6 @@ stubborn
 truss
 fumble
 clarion
+divergent
+distend
+cavalry
