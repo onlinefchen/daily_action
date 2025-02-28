@@ -2800,3 +2800,6 @@ cavalry
 hemorrhage
 browbeat
 relapse
+spleen
+tenuous
+tripod
