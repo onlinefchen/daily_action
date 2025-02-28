@@ -2797,3 +2797,6 @@ clarion
 divergent
 distend
 cavalry
+hemorrhage
+browbeat
+relapse

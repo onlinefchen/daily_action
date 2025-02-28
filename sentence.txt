@@ -9314,3 +9314,11 @@ Sure, here is a sentence for you: "The divergent opinions on the issue caused te
   
 Translation: "在这个问题上意见分歧导致了骑兵单位之间的紧张局势不断升级。"
 
+Sure! Here is a casual sentence for you: "After the stress of the exam, his boss's browbeating caused a relapse in his health, leading to a hemorrhage."
+
+- hemorrhage /ˈhɛmərɪdʒ/ [noun]: a copious discharge of blood from the blood vessels
+- browbeat /braʊˈbiːt/ [verb]: intimidate (someone), typically into doing something, with stern or abusive words
+- relapse /rɪˈlæps/ [noun]: a deterioration in someone's state of health after a temporary improvement
+
+中文翻译：在考试压力之后，老板的恃强凌弱导致他的健康出现了复发，造成了大出血。
+
