@@ -2812,3 +2812,6 @@ platonic
 indignity
 graphite
 molar
+banister
+patronize
+plankton
