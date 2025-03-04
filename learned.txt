@@ -2821,3 +2821,6 @@ remnant
 annotate
 blighted
 emigrate
+irony
+clandestine
+crutch
