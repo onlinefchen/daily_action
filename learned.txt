@@ -2830,3 +2830,6 @@ rapprochement
 disdain
 prognosis
 reprimand
+cartoon
+entity
+synopsis
