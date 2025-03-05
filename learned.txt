@@ -2827,3 +2827,6 @@ crutch
 spoil
 irate
 rapprochement
+disdain
+prognosis
+reprimand

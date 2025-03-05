@@ -9416,3 +9416,11 @@ Sure, here is a sentence for you:
 
 中文翻译： "在多次未能达成妥协之后，被溺爱的孩子发起了愤怒爆发，最终导致他与父母之间的和解。"
 
+Sure! Here's a sentence for you: "She met the doctor's disdainful reprimand about her prognosis with a calm demeanor." 
+
+- disdain [dɪsˈdeɪn]: (noun) the feeling that someone or something is unworthy of one's consideration or respect; contempt; 蔑视
+- prognosis [prɒɡˈnəʊsɪs]: (noun) a forecast of the likely course of a disease or situation; diagnosis; 预后
+- reprimand [ˈreprɪˌmænd]: (verb) to rebuke or scold; 谴责
+
+Translation: "她以平静的态度对待了医生对她预后的轻蔑谴责。"
+
