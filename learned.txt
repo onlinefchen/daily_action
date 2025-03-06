@@ -2836,3 +2836,6 @@ synopsis
 gasification
 nutrient
 famine
+subsume
+mannered
+prosecute
