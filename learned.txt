@@ -2842,3 +2842,6 @@ prosecute
 contingent
 ferret
 obstinacy
+overstate
+apocrypha
+denizen
