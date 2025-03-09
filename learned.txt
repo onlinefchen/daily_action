@@ -2854,3 +2854,6 @@ category
 huckster
 discreet
 expiate
+sustain
+ostentation
+movement
