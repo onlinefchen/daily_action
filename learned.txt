@@ -2872,3 +2872,6 @@ depict
 affliction
 sporadic
 squeeze
+acquiesce
+salient
+vivid
