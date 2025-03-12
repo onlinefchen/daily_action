@@ -2869,3 +2869,6 @@ wit
 sibling
 erasure
 depict
+affliction
+sporadic
+squeeze
