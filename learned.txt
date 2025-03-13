@@ -2875,3 +2875,6 @@ squeeze
 acquiesce
 salient
 vivid
+pirate
+sneer
+outlet
