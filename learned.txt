@@ -2890,3 +2890,6 @@ puckish
 verbose
 girth
 histrionic
+firearm
+gingerly
+revitalize
