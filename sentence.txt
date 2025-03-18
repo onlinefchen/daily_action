@@ -9696,3 +9696,11 @@ Sure! Here is a sentence for you:
 - reprise：重演或恢复某项行动或表演
 - inventory：详细清单，列出所拥有物品的清单
 
+Sure, here is a sentence for you: "The prolific artist created intricate arboreal paintings with striated patterns."
+
+- prolific [prəˈlɪf.ɪk] (adj): producing a large amount of something, especially works of art or writing; 多产的
+- arboreal [ɑːrˈbɔː.ri.əl] (adj): relating to trees; 树栖的
+- striate [ˈstraɪ.eɪt] (adj): marked with narrow bands, stripes, or lines; 有条纹的
+
+Translation: 这位多产的艺术家创作了带有条纹图案的复杂树木画作。
+
