@@ -2914,3 +2914,6 @@ striate
 madrigal
 boulder
 narrative
+zigzag
+deracinate
+undesirable
