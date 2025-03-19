@@ -2911,3 +2911,6 @@ inventory
 prolific
 arboreal
 striate
+madrigal
+boulder
+narrative
