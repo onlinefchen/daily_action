@@ -2917,3 +2917,6 @@ narrative
 zigzag
 deracinate
 undesirable
+ramshackle
+solicitous
+perky
