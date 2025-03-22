@@ -2929,3 +2929,6 @@ underscore
 tempestuous
 raisin
 connive
+reptilian
+figurehead
+indent
