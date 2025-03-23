@@ -2935,3 +2935,6 @@ indent
 perfervid
 punch
 linoleum
+dermatologist
+scowl
+osmosis
