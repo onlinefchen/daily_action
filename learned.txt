@@ -2941,3 +2941,6 @@ osmosis
 affluence
 veer
 suture
+rustic
+heretic
+desertion
