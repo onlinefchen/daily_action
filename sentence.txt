@@ -9837,3 +9837,14 @@ Sentence: "The rustic old heretic faced desertion from his community due to his 
 2. heretic：异教徒；持有不符合宗教或社会公认信条的人
 3. desertion：遗弃；离开或抛弃某人或某事的行为
 
+Sure! Here is a sentence that includes the words "arrest," "reap," and "impenetrable" in a casual manner: 
+
+"After years of reckless behavior, his impenetrable facade finally cracked and he was arrested, forcing him to reap the consequences of his actions."
+
+- Arrest /əˈrɛst/ (v.) - to take someone into custody
+- Reap /riːp/ (v.) - to receive as a consequence of one's actions
+- Impenetrable /ɪmˈpɛnɪtrəbəl/ (adj.) - impossible to pass through or enter
+
+Translation:
+"经过多年的鲁莽行为，他坚不可摧的外表最终破裂了，他被逮捕，迫使他要为自己的行为付出了代价。"
+
