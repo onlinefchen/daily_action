@@ -2956,3 +2956,6 @@ vascular
 indeterminate
 insoluble
 sprout
+restive
+artery
+discriminate
