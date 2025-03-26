@@ -2953,3 +2953,6 @@ fungi
 settle
 enormity
 vascular
+indeterminate
+insoluble
+sprout
