@@ -2962,3 +2962,6 @@ discriminate
 quiescent
 regressive
 incorrigibility
+hemisphere
+ostrich
+monopoly
