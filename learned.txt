@@ -2965,3 +2965,6 @@ incorrigibility
 hemisphere
 ostrich
 monopoly
+stanch
+pristine
+slot
