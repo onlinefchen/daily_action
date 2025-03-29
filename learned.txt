@@ -2974,3 +2974,6 @@ clam
 disconcert
 dilapidate
 noisome
+legitimate
+braid
+provisional
