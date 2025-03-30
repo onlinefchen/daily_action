@@ -2980,3 +2980,6 @@ provisional
 override
 favorable
 malign
+nascent
+locomotive
+impeach
