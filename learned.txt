@@ -2992,3 +2992,6 @@ blurb
 torrent
 abrade
 sepulchral
+eclectic
+mirage
+assuage
