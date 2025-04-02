@@ -2998,3 +2998,6 @@ assuage
 pillar
 insurrection
 amplitude
+cyclical
+dubious
+aggregate
