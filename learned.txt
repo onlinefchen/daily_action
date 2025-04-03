@@ -3001,3 +3001,6 @@ amplitude
 cyclical
 dubious
 aggregate
+obituary
+stroll
+certification
