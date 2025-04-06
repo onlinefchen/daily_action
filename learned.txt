@@ -3019,3 +3019,6 @@ benison
 court
 disengage
 easel
+gallant
+forfeit
+caress
