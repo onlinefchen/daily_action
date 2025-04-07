@@ -3028,3 +3028,6 @@ duet
 poseur
 parch
 unworldly
+spurious
+equilibrium
+plead
