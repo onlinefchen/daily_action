@@ -3037,3 +3037,6 @@ nadir
 install
 expire
 gratuitous
+flaw
+thermal
+accommodating
