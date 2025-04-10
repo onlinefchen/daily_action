@@ -3046,3 +3046,6 @@ stencil
 blatant
 customary
 shipshape
+informed
+anticipate
+vertigo
