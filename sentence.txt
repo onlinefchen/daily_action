@@ -10326,3 +10326,13 @@ Sure! Here is a sentence for you:
 
 中文翻译：尽管她是一个非主流人士，但她在以独特和创新的方式执行她的课程方面表现出色。
 
+Sure! Here is a casual sentence including the words 'compunction', 'spoof', and 'paradigm':
+"Watching that comedy show felt like a guilty pleasure because the spoof they did on traditional family values was a fresh paradigm shift for the genre."
+
+- compunction [kəmˈpʌŋkʃən] (n): a feeling of guilt or moral scruple that follows the doing of something bad (内疚感)
+- spoof [spuːf] (n): a humorous imitation of something, typically a movie or a particular genre (恶搞)
+- paradigm [ˈpærədaɪm] (n): a typical example or pattern of something; a model (范例)
+
+**Translation:**
+"观看那档喜剧节目就像是一种内疚的愉悦，因为他们对传统家庭价值观进行了恶搞，这是该类型节目的一次全新范例转变。"
+

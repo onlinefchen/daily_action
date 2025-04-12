@@ -3058,3 +3058,6 @@ intensify
 curriculum
 execute
 nonconformist
+compunction
+spoof
+paradigm
