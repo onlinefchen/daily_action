@@ -10399,3 +10399,12 @@ Sure, here is a sentence for you:
 
 希望这个句子有助于你记住这几个单词！
 
+Sentence: When the doctor told me I had a serious infection, I started to implore him to explain it to me using a minuet dance instead of medical jargon.
+
+中文翻译：当医生告诉我我患了严重的感染时，我开始恳求他用一支小步舞曲来解释给我，而不是用医学术语。
+
+单词解释：
+- infection [ɪnˈfɛkʃən] (n.) - the process of infecting or the state of being infected, especially the presence of a virus or other harmful microorganism in the body or a part of it
+- minuet [ˌmɪnˈwɛt] (n.) - a slow, stately ballroom dance for two in triple time, popular particularly in the 18th century
+- implore [ɪmˈplɔr] (v.) - to beg someone earnestly or desperately to do something
+
