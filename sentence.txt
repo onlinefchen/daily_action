@@ -10419,3 +10419,16 @@ Middle School Level Vocabulary:
 Chinese Translation:
 "这个肥胖的男子企图在警察到达之前撒播走私品。"
 
+Sure, here is a sentence for you: "The dynamo in the factory needed a quick fix after the worker tried to recant their mistake by affixing a faulty part."
+
+- dynamo /ˈdaɪ.nəˌmoʊ/ (n.) - a machine that produces electricity
+  - 发电机，电动机
+
+- recant /rɪˈkænt/ (v.) - to publicly take back or withdraw a statement or belief
+  - 公开取消，撤回
+
+- affix /əˈfɪks/ (v.) - to stick, attach, or fasten something to something else
+  - 粘合，附加
+
+中文翻译：在工厂里的发电机需要快速修复，因为工人试图通过安装一个有问题的零件来收回他们的错误。
+

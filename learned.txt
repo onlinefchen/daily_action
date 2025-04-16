@@ -3082,3 +3082,6 @@ implore
 obese
 contraband
 scatter
+affix
+recant
+dynamo
