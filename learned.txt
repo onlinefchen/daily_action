@@ -3085,3 +3085,6 @@ scatter
 affix
 recant
 dynamo
+consummate
+exhort
+hauteur
