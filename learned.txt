@@ -3091,3 +3091,6 @@ hauteur
 metabolism
 perpetuate
 increment
+hypothesis
+plait
+bolt
