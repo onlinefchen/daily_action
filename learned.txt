@@ -3097,3 +3097,6 @@ bolt
 rudder
 detrimental
 nocturnal
+igneous
+perfunctory
+concerto
