@@ -10512,3 +10512,11 @@ Sure, here is a sentence for you: "His toupee received much approbation from his
 
 中文翻译：他的假发得到了朋友们的赞扬，但他对阴谋论的不断胡言乱语让他们翻白眼。
 
+Sure, here is a sentence for you: "The ancient pagan tribe adorned their temple walls with intricate friezes depicting a symbolic motif of nature." 
+
+- motif [məʊˈtiːf] (noun): a recurring theme, subject, or idea in a piece of art or literature; 主题、主旨
+- pagan [ˈpeɪɡən] (noun): a person holding religious beliefs other than those of the main world religions; 异教徒
+- frieze [friːz] (noun): a decorative band or strip running along the upper part of a wall or building; 带状装饰
+
+中文翻译：古代异教徒部落用复杂的带状装饰修饰他们的庙宇墙壁，上面描绘着代表自然的象征性主题。
+
