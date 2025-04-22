@@ -10554,3 +10554,13 @@ Sure! Here is a sentence for you:
 中文翻译：
 "多年来，我们对于遗传特征的认识有了显著的扩展，尽管一些科学专家小组的成员仍然持怀疑态度。"
 
+Sure! Here is an example sentence incorporating the words 'deforestation', 'overdue', and 'impersonate' in a casual tone:
+
+"The environmental effects of deforestation are long overdue, and it's unfair to impersonate someone to avoid responsibility."
+
+- deforestation /ˌdiː.fɒr.ɪˈsteɪ.ʃən/ (n.) - the action of clearing a wide area of trees
+- overdue /ˌoʊ.vɚˈduː/ (adj.) - not having been done, paid, performed, etc., by the expected or proper time
+- impersonate /ɪmˈpɝː.sə.neɪt/ (v.) - to pretend to be someone else, usually for deceptive purposes
+
+Translation: “森林砍伐的环境影响早已到来，冒充别人以逃避责任是不公平的。”
+
