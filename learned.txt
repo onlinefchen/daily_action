@@ -3139,3 +3139,6 @@ soothe
 stowaway
 elude
 appease
+erratic
+alcove
+individual
