@@ -3142,3 +3142,6 @@ appease
 erratic
 alcove
 individual
+compensatory
+ivory
+capture
