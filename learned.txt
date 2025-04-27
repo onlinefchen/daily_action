@@ -3148,3 +3148,6 @@ capture
 splurge
 mottled
 ethereal
+importune
+savant
+rewarding
