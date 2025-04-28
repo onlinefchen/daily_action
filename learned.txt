@@ -3154,3 +3154,6 @@ rewarding
 rider
 winnow
 sacred
+deed
+solitary
+snobbish
