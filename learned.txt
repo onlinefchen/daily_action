@@ -3172,3 +3172,6 @@ itinerant
 attach
 pitfall
 confederacy
+defense
+infuriate
+baroque
