@@ -3169,3 +3169,6 @@ random
 medal
 affront
 itinerant
+attach
+pitfall
+confederacy
