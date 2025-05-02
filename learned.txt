@@ -3175,3 +3175,6 @@ confederacy
 defense
 infuriate
 baroque
+brutal
+chase
+nonchalance
