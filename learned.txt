@@ -3184,3 +3184,6 @@ jeopardy
 longevity
 septic
 peruse
+instate
+canary
+artless
