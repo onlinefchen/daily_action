@@ -3202,3 +3202,6 @@ unfold
 accolade
 disinter
 subjective
+appellation
+misperceive
+impermeable
