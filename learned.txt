@@ -3208,3 +3208,6 @@ impermeable
 sycophant
 sordid
 wearisome
+considerable
+mirth
+fledgling
