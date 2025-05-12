@@ -3235,3 +3235,6 @@ impede
 prophetic
 coup
 ideology
+constrict
+stymie
+strive
