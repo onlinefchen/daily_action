@@ -3238,3 +3238,6 @@ ideology
 constrict
 stymie
 strive
+moat
+dawdle
+paranoid
