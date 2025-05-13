@@ -3241,3 +3241,6 @@ strive
 moat
 dawdle
 paranoid
+manifestation
+garrulity
+gobble
