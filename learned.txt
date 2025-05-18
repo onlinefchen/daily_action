@@ -3271,3 +3271,6 @@ composure
 composed
 conservative
 plot
+deteriorate
+know-how
+mortar
