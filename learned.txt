@@ -3274,3 +3274,6 @@ plot
 deteriorate
 know-how
 mortar
+investigate
+clog
+cranky
