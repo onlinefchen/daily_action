@@ -3277,3 +3277,6 @@ mortar
 investigate
 clog
 cranky
+badinage
+sprain
+anemia
