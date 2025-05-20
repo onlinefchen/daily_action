@@ -3283,3 +3283,6 @@ anemia
 mate
 earshot
 hypnotic
+audible
+posit
+loquacious
