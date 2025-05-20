@@ -3286,3 +3286,6 @@ hypnotic
 audible
 posit
 loquacious
+apron
+monotony
+lode
