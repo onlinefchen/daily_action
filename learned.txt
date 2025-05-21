@@ -3292,3 +3292,6 @@ lode
 hospitable
 draftsmanship
 measured
+clamor
+stingy
+shard
