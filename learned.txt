@@ -3289,3 +3289,6 @@ loquacious
 apron
 monotony
 lode
+hospitable
+draftsmanship
+measured
