@@ -11279,3 +11279,5 @@ Sure! Here's a casual sentence that includes the words 'assumption', 'stout', an
 - stout /staʊt/ (adjective): physically strong and thickset; 结实的，偏胖的
 - inaugural /ɪˈnɔːɡjərəl/ (adjective): marking the beginning of an institution, activity, or period of office; 开幕的，就职的
 
+Error generating sentence: Error code: 500 - {'error': {'message': 'Internal server error', 'type': 'auth_subrequest_error', 'param': None, 'code': 'internal_error'}}
+
