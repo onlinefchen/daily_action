@@ -3304,3 +3304,6 @@ snatch
 flaunty
 jest
 compliment
+deprivation
+crabbed
+resignation
