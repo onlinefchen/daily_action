@@ -11281,3 +11281,17 @@ Sure! Here's a casual sentence that includes the words 'assumption', 'stout', an
 
 Error generating sentence: Error code: 500 - {'error': {'message': 'Internal server error', 'type': 'auth_subrequest_error', 'param': None, 'code': 'internal_error'}}
 
+Sure, here is a casual sentence for you:
+
+She delivered a flaunty jest about his outfit while giving him a backhanded compliment.
+
+[feɪnti] [dʒɛst] [kɑm'plɪmənt]
+
+flaunty (adj.): behaving or dressing in a showy or self-admiring way
+
+jest (n.): a joke or witty remark
+
+compliment (n.): a polite expression of praise or admiration
+
+她在开玩笑时夸张地戏谑了他的服装，并顺便表扬了他。
+

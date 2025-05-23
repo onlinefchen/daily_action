@@ -3301,3 +3301,6 @@ inaugural
 turncoat
 replenish
 snatch
+flaunty
+jest
+compliment
