@@ -3319,3 +3319,6 @@ levity
 concave
 meddlesome
 corporeal
+lubricant
+stanza
+miser
