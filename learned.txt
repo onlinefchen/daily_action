@@ -3322,3 +3322,6 @@ corporeal
 lubricant
 stanza
 miser
+propagation
+hoof
+dolorous
