@@ -3361,3 +3361,6 @@ adapt
 occlude
 tepid
 rarefaction
+critique
+filibuster
+mercenary
