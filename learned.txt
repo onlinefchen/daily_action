@@ -3364,3 +3364,6 @@ rarefaction
 critique
 filibuster
 mercenary
+solemnity
+sway
+timely
