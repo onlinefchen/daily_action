@@ -3385,3 +3385,6 @@ addendum
 allergy
 falsehood
 acerbic
+convalesce
+derivative
+pester

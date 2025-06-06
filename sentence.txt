@@ -11612,3 +11612,14 @@ Word breakdown with IPA, definitions, and Chinese translations:
     谬误, 不实
 
 
+Sure! Here is a sentence for you: "After her surgery, she needed plenty of rest to convalesce, but her brother kept pestering her with derivative jokes."
+
+- convalesce /ˌkɒnvəˈlɛs/ (verb): to recover health and strength gradually after sickness or weakness
+   - 中文解释：康复，恢复健康
+   
+- derivative /dəˈrɪvətɪv/ (adjective): imitative of the work of another person, and usually disapproved of for that reason
+   - 中文解释：模仿的，没创造力的
+   
+- pester /ˈpɛstər/ (verb): to trouble or annoy somebody with constant requests or questions
+   - 中文解释：纠缠，烦扰
+
