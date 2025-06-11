@@ -11718,3 +11718,13 @@ Sure, here is a sentence for you:
 
 中文翻译：我去了购物区磨砺我的讨价还价技巧，遇到了一位生态学家，他与我分享了关于可持续生活的宝贵见解。
 
+Sure, here is a sentence for you: 
+
+"After the meeting, the team leader sought the hub's assent to the plan, despite some members' dissociation from the group's goals." 
+
+- hub [hʌb]: the center of an activity or network; a focal point
+- assent [əˈsɛnt]: to agree or approve of something
+- dissociation [dɪˌsoʊ.siˈeɪʃən]: a disconnection or separation; to remove oneself from a group or idea
+
+Translation: "会议后，团队领导寻求中心的赞同计划，尽管有些成员与团队的目标有分离。"
+
