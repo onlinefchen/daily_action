@@ -11793,3 +11793,11 @@ International phonetic alphabet (IPA), English definitions, and Chinese translat
 Chinese translation:
 "这位精明的厨师知道在酱汁中使用防腐剂会恰到好处地增强风味。"
 
+Sure, here's a sentence for you: "His vindictive nature prevented him from recognizing that his hard work entitled him to a promotion, which would solidify his position in the company."
+
+- vindictive /vɪnˈdɪktɪv/ (adj.) - having or showing a strong or unreasonable desire for revenge (报复心重的)
+- entitle /ɪnˈtaɪtl/ (v.) - to give someone the right to do or have something; to qualify (使...有资格)
+- solidify /ˈsɒlɪˌdaɪ/ (v.) - to make or become firm, stable, or solid (凝固；巩固)
+
+中文翻译：他报复心强的本性使他无法意识到他的努力使他有资格升职，这将巩固他在公司中的地位。
+
