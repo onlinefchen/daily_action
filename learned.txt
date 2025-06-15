@@ -3442,3 +3442,6 @@ reproof
 intersect
 discount
 consolidation
+stain
+feat
+synchronous
