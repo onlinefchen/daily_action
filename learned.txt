@@ -3448,3 +3448,6 @@ synchronous
 belligerence
 schism
 advocate
+weary
+shed
+gaze
