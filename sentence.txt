@@ -11852,3 +11852,11 @@ Translation in Chinese:
 
 "她在听着音乐时成功地从地毯上移除了顽固的污渍，完成了令人印象深刻的壮举。"
 
+Sure, here's a sentence for you: "The belligerence between the two rival factions intensified the schism within the community, but there was a passionate advocate for peace trying to bridge the divide."
+
+- belligerence [bəˈlɪdʒərəns] (noun): aggressive or warlike behavior
+- schism [ˈskɪzəm] (noun): a split or division between opposing groups
+- advocate [ˈædvəkət] (noun): a person who publicly supports or recommends a particular cause or policy
+
+Translation in Chinese: "两个对立派别之间的敌意加剧了社区内部的分裂，但有一位热情的倡导者试图弥合分歧。"
+
