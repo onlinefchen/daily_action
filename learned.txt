@@ -3454,3 +3454,6 @@ gaze
 testiness
 list
 riot
+craving
+recessive
+satirize
