@@ -3460,3 +3460,6 @@ satirize
 contest
 meritorious
 ubiquitous
+lurch
+encapsulate
+chromosome

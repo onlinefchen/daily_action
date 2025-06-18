@@ -11903,3 +11903,14 @@ Words breakdown:
 Translation in Chinese:
 "我听说有一个表现优秀的学生在一场诗歌比赛中凭借她无处不在的才华获胜。"
 
+Sure, here is a sentence for you: 
+
+"After a long day of studying, I felt like my brain was in a constant state of lurch as I tried to encapsulate the complex concepts related to chromosome formation."
+
+- lurch [lɜːrtʃ] (verb): make an abrupt, unsteady, rolling or pitching movement
+- encapsulate [ɪnˈkæpsjuleɪt] (verb): to express or summarize the main points of something
+- chromosome [ˈkroʊməˌsoʊm] (noun): a threadlike structure of nucleic acids and protein found in the nucleus of most living cells, carrying genetic information in the form of genes
+
+Translation:
+在经过一天的学习后，当我试图概括与染色体形成相关的复杂概念时，我感觉我的大脑处于不断颠簸的状态。
+
