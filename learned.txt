@@ -3463,3 +3463,6 @@ ubiquitous
 lurch
 encapsulate
 chromosome
+foster
+intentional
+brunt
