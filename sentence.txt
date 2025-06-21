@@ -11965,3 +11965,12 @@ hieroglyph /ˈhaɪərəɡlɪf/ (noun): a character of the ancient Egyptian writi
 中文翻译：
 在多年来作为一个不改过的拖延者之后，她终于找到了作为她动力支点的象形文字。
 
+Here's a casual sentence with the words 'peregrination', 'salvage', and 'pulley':
+"After a long peregrination across the city, they finally found a salvage yard where they could source a pulley for their DIY project."
+
+- peregrination /ˌpɛrɪɡrɪˈneɪʃən/ (noun): a journey, especially a long or meandering one / 旅行，尤指漫长或曲折的旅程
+- salvage /ˈsælvɪdʒ/ (verb): to rescue or retrieve (something) from potential loss or destruction / 拯救或从潜在的损失或破坏中找回（某物）
+- pulley /ˈpʊli/ (noun): a wheel with a grooved rim around which a cord passes, used to lift heavy objects / 用来举起重物的带有沟槽边的轮子
+
+Translation: “经过一次漫长的城市漫游之后，他们终于找到了一个废旧场所，在那里他们可以找到一个用于他们DIY项目的滑轮。”
+
