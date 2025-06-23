@@ -12004,3 +12004,13 @@ Sure! Here is a sentence for you:
 
 Translation: 她在对市场预测方面展现出的独创性，以及在给古董桌涂新防腐漆之前，给拍卖会上的每个人留下了深刻印象。
 
+Sure! Here is a conversational sentence that includes the words 'fad', 'plaque', and 'optional':
+
+"Having a fancy toothbrush with a built-in fad like a whitening feature is cool, but adding a plaque-removing mouthwash is totally optional."
+
+[fe:d] - a style, activity, or interest that is very popular for a short period of time   
+[plæk] - a thin piece of metal, porcelain, or other material that is fixed on a wall in memory of a person or event  
+[ˈɒp.ʃən.əl] - not required; left to one's choice  
+
+Translation: "拥有一个带有像美白功能这样的流行潮流的高级牙刷很酷，但再加上去除牙菌斑的漱口水就完全是可选的。"
+
