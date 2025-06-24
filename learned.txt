@@ -3496,3 +3496,6 @@ optional
 beholder
 cutlery
 arrogate
+integrity
+hawk
+mortgage
