@@ -12077,3 +12077,11 @@ Sure! Here is a sentence for you: "She moved with lithe grace, her hidden streng
 
 "她以灵活的优雅姿态移动，她隐藏的力量在静谧中撕裂开来，却未被周围的人注意到。"
 
+Sentence: The noxious fumes from the factory polluted the air, causing gene mutations that led to a harrowing increase in birth defects.
+
+中文翻译: 工厂散发的有毒烟雾污染了空气，导致基因突变，进而导致急剧增加的先天缺陷。
+
+- noxious /ˈnɒkʃəs/ (adj.) - harmful, poisonous (有害的，有毒的)
+- gene /dʒiːn/ (n.) - a unit of heredity that is transferred from a parent to offspring and is held to determine some characteristic of the offspring (基因)
+- harrowing /ˈhær.oʊ.ɪŋ/ (adj.) - extremely distressing or disturbing (使人痛苦或焦虑的)
+
