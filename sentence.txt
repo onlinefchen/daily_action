@@ -12105,3 +12105,5 @@ Sure! Here is an informal sentence that includes the words 'rakish', 'legion' an
    - (adj.) remaining after the greater part or quantity has gone
    - 中文解释：残余的，剩余的
 
+Error generating sentence: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+
