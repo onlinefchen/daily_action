@@ -3520,3 +3520,6 @@ initial
 reciprocal
 coward
 viscid
+hypocrite
+absolute
+moribund
