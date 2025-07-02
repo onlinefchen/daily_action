@@ -3541,3 +3541,6 @@ divest
 incinerate
 suffice
 menthol
+unassuming
+demur
+plummet
