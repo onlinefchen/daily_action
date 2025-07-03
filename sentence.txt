@@ -12127,3 +12127,13 @@ Error generating sentence: Error code: 429 - {'error': {'message': 'You exceeded
 
 Error generating sentence: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
 
+Sure! Here is a sentence that includes the words 'rend', 'regress', and 'omit' in a conversational context:
+
+"After the breakup, he wanted to rend all the memories, but it only caused him to regress emotionally, prompting him to carefully omit certain details when recounting the relationship to his friends."
+
+**rend** /rɛnd/ - to tear or split apart violently  
+**regress** /rɪˈɡrɛs/ - to return to a former or less developed state  
+**omit** /əˈmɪt/ - to leave out or exclude  
+
+这个句子的中文翻译： "分手后，他想将所有回忆撕裂，但这只会导致他情感上倒退，促使他在向朋友讲述恋情时小心地省略一些细节。"
+

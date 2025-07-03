@@ -3547,3 +3547,6 @@ plummet
 repose
 nettle
 genre
+rend
+regress
+omit
