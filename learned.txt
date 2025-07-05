@@ -3562,3 +3562,6 @@ smear
 intercessor
 ossify
 duplicitous
+rural
+insentient
+soluble
