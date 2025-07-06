@@ -3565,3 +3565,6 @@ duplicitous
 rural
 insentient
 soluble
+vigorous
+inquisitive
+mendicant
