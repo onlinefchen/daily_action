@@ -3568,3 +3568,6 @@ soluble
 vigorous
 inquisitive
 mendicant
+worship
+affected
+demand
