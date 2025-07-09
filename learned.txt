@@ -3586,3 +3586,6 @@ tenor
 acute
 heinous
 unexceptionable
+extricable
+flatter
+contrive
