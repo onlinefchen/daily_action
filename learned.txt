@@ -3583,3 +3583,6 @@ pontifical
 clinch
 conceive
 tenor
+acute
+heinous
+unexceptionable
