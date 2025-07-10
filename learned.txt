@@ -3592,3 +3592,6 @@ contrive
 bromide
 evoke
 repudiate
+pertain
+stimulus
+sheathe
