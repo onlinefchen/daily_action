@@ -3628,3 +3628,6 @@ license
 unscathed
 multiply
 scaffold
+elocution
+poise
+incite
