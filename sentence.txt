@@ -12476,3 +12476,13 @@ Sure! Here is a sentence for you:
 
 中文翻译：他决定将他的闲置房间改建成一个家庭健身房，这个决定需要投入相当大的时间和精力。
 
+Sure! Here is a sentence incorporating the words 'idiom', 'scurry', and 'principle':
+
+"I had to scurry to look up the meaning of that idiom, but it ended up teaching me an important life principle."
+
+["ɪdiəm"] - a group of words established by usage as having a meaning that is not deducible from those of the individual words (习语)
+["ˈskʌri"] - to move quickly with short, hurried steps (匆忙)
+["ˈprɪnsəpl"] - a fundamental truth or proposition that serves as the foundation for a system of belief or behavior (原则)
+
+中文翻译： "我不得不匆匆忙忙地查找那个习语的含义，但最终教会了我一个重要的生活原则。"
+
