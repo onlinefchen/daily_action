@@ -3640,3 +3640,6 @@ principle
 militia
 metropolis
 unwonted
+proboscis
+locus
+dissolve
