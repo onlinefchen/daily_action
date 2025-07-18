@@ -3637,3 +3637,6 @@ sparing
 idiom
 scurry
 principle
+militia
+metropolis
+unwonted
