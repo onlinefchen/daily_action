@@ -12505,3 +12505,10 @@ Sure! Here is a sentence for you: "The proboscis of the elephant is a distinguis
 
 Translation: "大象的长鼻子是一个独特的特征，它长长的象鼻作为食物和水的聚集地，使其能够轻松溶解并消化。"
 
+"John's involvement in the espionage case could signify that he has connections to a shady broker." 
+[ændərˈspaɪənɪʤ] - The use of spies to obtain secret information. - 间谍活动
+[ˈsɪɡnɪfaɪ] - To be a sign of; indicate. - 表示
+[ˈbroʊkər] - A person who buys and sells goods or assets for others. - 经纪人
+
+John参与间谍案可能意味着他与一个不正当的经纪人有联系。
+
