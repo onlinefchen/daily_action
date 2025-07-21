@@ -3658,3 +3658,6 @@ construct
 void
 prodigy
 extinct
+tinker
+sly
+assay
