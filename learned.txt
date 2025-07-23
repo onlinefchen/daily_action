@@ -3670,3 +3670,6 @@ disperse
 rubicund
 earring
 canine
+haunt
+privation
+validate
