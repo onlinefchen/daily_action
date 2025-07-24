@@ -3673,3 +3673,6 @@ canine
 haunt
 privation
 validate
+infantry
+rattle
+brute
