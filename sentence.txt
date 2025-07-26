@@ -12659,3 +12659,13 @@ Translation:
 
 请问您有其他问题吗？
 
+Sure! Here is a casual sentence incorporating the words 'counterproductive', 'externalize', and 'purge':
+
+"Don't externalize your stress by indulging in counterproductive habits like binge-watching shows, it's important to confront and purge negativity from your life."
+
+- **Counterproductive** /ˌkaʊntərpəˈdʌktɪv/ (adj.) - tending to hinder rather than promote progress; 反生产的
+- **Externalize** /ɪkˈstɜːrnlˌaɪz/ (v.) - to attribute (thoughts or feelings) to a source outside the self; 外部化
+- **Purge** /pɜːrdʒ/ (v.) - to rid (someone or something) of an unwanted quality, condition, or feeling; 净化
+
+Translation: "不要通过沉迷于像疯狂看剧这类无益的习惯来外部化你的压力，重要的是要直面并排除生活中的负能量。"
+
