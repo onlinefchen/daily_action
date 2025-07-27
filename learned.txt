@@ -3694,3 +3694,6 @@ lattice
 pedagogue
 prehistoric
 neophyte
+lobby
+credulous
+augury
