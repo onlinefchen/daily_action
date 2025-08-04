@@ -12883,3 +12883,15 @@ Sure! Here is a sentence for you:
 中文翻译：
 "享乐主义者为派对订购了一箱豪华的香槟，庆祝他们的自主决定全心全意地享受生活。"
 
+Sure! Here is a sentence that includes the words 'magenta', 'depreciate', and 'puncture' in a casual tone:
+
+"I accidentally punctured my magenta beach ball, and now it's worth even less than before because it will depreciate in value."
+
+['məˈdʒɛntə] n. A bright purplish-red color; 紫红色，洋红色
+
+[diˈpriːʃieɪt] v. To decrease in value over time; 贬值，跌价
+
+[ˈpʌŋktʃər] v. To make a small hole in something with a sharp object; 刺破，穿刺
+
+中文翻译：“我不小心刺破了我的洋红色沙滩球，现在它的价值比以前还要低，因为它会贬值。”
+
