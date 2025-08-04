@@ -3742,3 +3742,6 @@ autonomous
 magenta
 depreciate
 puncture
+evanescent
+ascribe
+cereal
