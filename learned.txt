@@ -3745,3 +3745,6 @@ puncture
 evanescent
 ascribe
 cereal
+frenzy
+restiveness
+overlap
