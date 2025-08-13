@@ -3793,3 +3793,6 @@ resurrect
 interaction
 periscope
 cynic
+countenance
+impolitic
+carouse
