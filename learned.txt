@@ -3802,3 +3802,6 @@ reconnaissance
 shoplift
 insubordinate
 curmudgeon
+ewe
+precipice
+horn
