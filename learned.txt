@@ -3805,3 +3805,6 @@ curmudgeon
 ewe
 precipice
 horn
+foil
+undergird
+impinge
