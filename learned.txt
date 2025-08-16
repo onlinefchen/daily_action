@@ -3814,3 +3814,6 @@ smart
 notorious
 tarpaulin
 yeast
+periodical
+limpid
+precipitate
