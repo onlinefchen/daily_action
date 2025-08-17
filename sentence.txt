@@ -13209,3 +13209,16 @@ Sure! Here is a sentence for you:
 
 Translation: "如果你不按时完成任务，我将推断你不太认真地对待这门课程，可能会惩罚你，让你多做一捆额外的工作。"
 
+Sure! Here is a sentence for you:
+
+"The duration of the chapel service was extended due to the permissive weather."
+
+Words breakdown in the sentence:
+
+1. duration /dəˈreɪʃən/ (noun) - the length of time that something continues or lasts 长度，持续时间
+2. chapel /ˈtʃæpəl/ (noun) - a small building or room used for Christian worship in a school, prison, hospital, or large private house 教堂，小礼拜堂
+3. permissive /pərˈmɪsɪv/ (adjective) - allowing or characterized by great or excessive freedom of behavior 许可的，宽容的
+
+Translated sentence in Chinese:
+"礼拜堂服务的持续时间由于宽容的天气得以延长。"
+

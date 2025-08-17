@@ -3820,3 +3820,6 @@ precipitate
 infer
 penalize
 bale
+duration
+chapel
+permissive
