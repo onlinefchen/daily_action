@@ -3817,3 +3817,6 @@ yeast
 periodical
 limpid
 precipitate
+infer
+penalize
+bale
