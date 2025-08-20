@@ -3838,3 +3838,6 @@ expand
 nitpick
 destitution
 abundant
+compress
+reprehensible
+untapped
