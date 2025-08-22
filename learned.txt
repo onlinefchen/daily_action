@@ -3850,3 +3850,6 @@ resilience
 bungle
 inadvertence
 cumbersome
+crestfallen
+negligence
+erupt
