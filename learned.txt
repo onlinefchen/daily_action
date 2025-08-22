@@ -3847,3 +3847,6 @@ disjunctive
 willow
 suppliant
 resilience
+bungle
+inadvertence
+cumbersome
