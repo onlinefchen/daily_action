@@ -3862,3 +3862,6 @@ progeny
 peeve
 gadget
 assess
+exemplify
+forbearance
+perquisite
