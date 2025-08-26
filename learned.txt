@@ -3874,3 +3874,6 @@ demography
 sterile
 hodgepodge
 excoriate
+exuberant
+statute
+delude
