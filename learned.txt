@@ -3886,3 +3886,6 @@ offhand
 vanity
 entry
 menace
+portray
+candor
+rhubarb
