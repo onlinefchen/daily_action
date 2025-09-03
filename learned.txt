@@ -3919,3 +3919,6 @@ compete
 cacophony
 deficiency
 obligatory
+propagate
+imprecise
+jar
