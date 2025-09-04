@@ -3928,3 +3928,6 @@ demote
 concatenate
 sanity
 specialize
+irreducible
+arbiter
+crayon
