@@ -3958,3 +3958,6 @@ console
 fetter
 vanquish
 caricature
+prompt
+clash
+panorama
