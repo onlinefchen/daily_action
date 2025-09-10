@@ -13752,3 +13752,11 @@ Sure, here is a sentence for you: "He signed a chauvinistic lease on the apartme
 
 Translation: "他签下了一个充满沙文主义色彩的租约，但幸运的是，房东将其详细条款做得可追踪。"
 
+Sure, here is a sentence for you: "She tried to immerse herself in her work to escape the deranged thoughts swirling in her mind, but the compound effect of stress and anxiety made it difficult for her to focus."
+
+- deranged [dɪˈreɪndʒd] (adj.): insane or disturbed, 疯狂的，疯狂的
+- immerse [ɪˈmɜːrs] (v.): to involve oneself deeply in a particular activity or interest, 沉浸于，专心于
+- compound [ˈkɑːmˌpaʊnd] (n.): a thing that is composed of two or more separate elements, 复合物、化合物
+
+中文翻译：她试图沉浸在工作中，以摆脱脑海中纷乱的思绪，但压力和焦虑的复合效应让她难以集中注意力。
+
