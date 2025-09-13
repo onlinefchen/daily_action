@@ -13818,3 +13818,15 @@ Sure, here is a sentence for you:
 
 中文翻译：新鲜面包的香味在面包店中飘荡，提醒员工他们有责任提供优质产品，即使他们不能在竞争中输给对手。
 
+Sure! Here is a sentence for you:
+
+She dove headlong into the room, ignoring the mirror as she rushed to primp her disarrayed hair.
+
+['hed.lɒŋ] ['prɪmp] [dɪs.əˈreɪ]
+
+Headlong (adv.): With great speed or force; hastily.
+Primp (v.): To spend time making minor adjustments to one's appearance.
+Disarray (n.): Untidiness or disorder.
+
+中文翻译：她头也不回地冲进房间，忽略了镜子，急忙整理了乱糟糟的头发。
+
