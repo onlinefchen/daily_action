@@ -4003,3 +4003,6 @@ starchy
 foible
 absenteeism
 prim
+kindle
+agitate
+valedictory
