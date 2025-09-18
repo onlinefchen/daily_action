@@ -4012,3 +4012,6 @@ sturdy
 acumen
 despicable
 awry
+prop
+tamp
+panache
