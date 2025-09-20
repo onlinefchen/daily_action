@@ -4021,3 +4021,6 @@ beleaguer
 hike
 vibrate
 distinction
+amphibian
+propitious
+acoustic
