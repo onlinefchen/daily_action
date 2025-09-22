@@ -4033,3 +4033,6 @@ cyclone
 fulminate
 shrine
 quota
+stethoscope
+characteristic
+disentangle
