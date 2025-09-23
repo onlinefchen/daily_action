@@ -4039,3 +4039,6 @@ disentangle
 rail
 runic
 tuber
+apposite
+mongrel
+averse
