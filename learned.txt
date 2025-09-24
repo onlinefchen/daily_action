@@ -4045,3 +4045,6 @@ averse
 caste
 furrow
 viral
+spike
+cessation
+quaver
