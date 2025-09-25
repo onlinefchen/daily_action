@@ -14093,3 +14093,14 @@ Sure! Here is a sentence for you:
 
 中文翻译：小心那只具有攻击性的爬行动物，它像凤凰一样凶猛！  
 
+Sure! Here is a sentence for you:
+
+"She found herself isolated in the maelstrom of uncertainty."
+
+/higher level vocabulary:
+- isolate [ˈaɪsəleɪt] (verb): to be or remain alone or apart from others
+- certainty [ˈsɜːrtənti] (noun): the state of being certain or convinced about something
+- maelstrom [ˈmeɪlˌstrɑm] (noun): a situation or state of confused and violent movement
+
+Translation: "她发现自己被困在不确定的漩涡中."
+
