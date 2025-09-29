@@ -4075,3 +4075,6 @@ dagger
 inviolable
 provision
 cumulus
+conversant
+operative
+doldrums
