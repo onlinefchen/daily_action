@@ -4081,3 +4081,6 @@ doldrums
 mosquito
 declamation
 hie
+rile
+ascendancy
+verdict
