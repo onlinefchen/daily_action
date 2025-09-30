@@ -4084,3 +4084,6 @@ hie
 rile
 ascendancy
 verdict
+caustic
+autocrat
+petal
