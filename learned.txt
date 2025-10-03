@@ -4099,3 +4099,6 @@ libertine
 wink
 slanderous
 opulent
+sting
+lank
+clement
