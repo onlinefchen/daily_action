@@ -4108,3 +4108,6 @@ uncanny
 alias
 prevaricate
 glisten
+excrete
+centigrade
+coalesce
