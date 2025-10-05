@@ -4111,3 +4111,6 @@ glisten
 excrete
 centigrade
 coalesce
+resonant
+barometer
+vestigial
