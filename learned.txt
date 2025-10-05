@@ -4114,3 +4114,6 @@ coalesce
 resonant
 barometer
 vestigial
+sextant
+veneer
+utter
