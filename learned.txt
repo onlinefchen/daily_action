@@ -4117,3 +4117,6 @@ vestigial
 sextant
 veneer
 utter
+interrogative
+colonize
+carcinogen
