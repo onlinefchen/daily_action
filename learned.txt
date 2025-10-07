@@ -4126,3 +4126,6 @@ collate
 undeserved
 flaggy
 germinate
+core
+eschew
+architect
