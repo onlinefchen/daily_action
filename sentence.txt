@@ -14380,3 +14380,11 @@ Sure! Here is a sentence for you: "The myriad of ideas emanating from our brains
 
 Translation: "我们头脑风暴产生的无数想法帮助我们预先防止了任何潜在问题。"
 
+Sure! Here is a sentence for you: "She couldn't believe how he could gush about that contemptible movie while failing to communicate his true feelings."
+
+1. contemptible  /kənˈtɛmptəbl/ - deserving contempt; despicable; 可鄙的，可恶的
+2. gush  /ɡʌʃ/ - to speak or write with enthusiastic praise; 滔滔不绝地说；情感外溢地表达
+3. communicate  /kəˈmjuːnɪkeɪt/ - to share information; 传达信息，交流
+
+Translation: "她无法相信他竟能对那部可鄙的电影滔滔不绝地说个没完，却没有传达出他真实的感受。"
+
