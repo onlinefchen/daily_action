@@ -4156,3 +4156,6 @@ foyer
 burlesque
 detritus
 sequential
+nightmare
+spectral
+barn
