@@ -14445,3 +14445,11 @@ Sure, here is a sentence for you: "The mysterious painting in the hotel foyer in
 - foyer [ˈfɔɪər] (n.): a large entrance or reception room or area
 - 翻译：在酒店门厅中的神秘画作引起了我的兴趣，但是黑暗的氛围和奇怪的符号似乎让其他客人感到疏远。
 
+Sure, here is a sentence for you: "We stumbled upon a burlesque show in a rundown theater, the detritus of previous performances scattered on the floor, as the host introduced the sequential lineup of comedic acts."
+
+- burlesque [bɜːrˈlɛsk] (n): a humorous and exaggerated imitation of something, typically a performance
+- detritus [dɪˈtraɪtəs] (n): waste or debris left behind; remnants 
+- sequential [sɪˈkwɛnʃəl] (adj): arranged in a particular order or sequence
+
+Translation: 我们偶然发现了一个脱衣舞表演，位于一座破旧的剧院，地板上散落着以前表演的残留物，主持人正介绍依次进行的喜剧表演节目。
+
