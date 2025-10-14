@@ -4168,3 +4168,6 @@ antecedent
 embellish
 compost
 feign
+sartorial
+dross
+rupture
