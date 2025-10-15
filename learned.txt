@@ -4171,3 +4171,6 @@ feign
 sartorial
 dross
 rupture
+adhere
+lap
+feint
