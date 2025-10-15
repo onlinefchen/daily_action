@@ -4174,3 +4174,6 @@ rupture
 adhere
 lap
 feint
+anonymous
+dictate
+discretionary
