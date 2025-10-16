@@ -4180,3 +4180,6 @@ discretionary
 reactionary
 flip
 tire
+synoptic
+aphorism
+warranty
