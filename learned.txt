@@ -4198,3 +4198,6 @@ denude
 tonic
 disembodied
 contain
+roughen
+earthy
+stratagem
