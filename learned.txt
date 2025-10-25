@@ -4234,3 +4234,6 @@ precipitation
 sustenance
 scrawl
 fluorescent
+speculate
+dispose
+annals
