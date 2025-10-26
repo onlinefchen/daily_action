@@ -4240,3 +4240,6 @@ annals
 quarry
 demotic
 nibble
+discrete
+taxonomist
+perspective
