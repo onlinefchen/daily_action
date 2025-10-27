@@ -14799,3 +14799,16 @@ Sure, here is a sentence for you: "Her surrealism-inspired artwork was met with 
 
 In Chinese: 「她受超现实主义启发的艺术作品因为其不透明度而遭到敌意，使许多观众感到困惑。」
 
+Sentence: She's underplaying her true feelings towards him by taking on a nonchalant attitude, but deep down, there is a strong sense of repugnance.
+
+International Phonetic Alphabet (IPA), English Definition, and Chinese Translation:
+
+- underplay /ˌʌndərˈpleɪ/ (v.): to make something seem less important or serious than it really is 
+  - 解释：低调处理
+- taking /ˈteɪkɪŋ/ (v.): participating or being involved in something 
+  - 解释：参与或涉及
+- repugnance /rɪˈpʌɡ.nəns/ (n.): a strong feeling of dislike or disgust 
+  - 解释：憎恶、嫌恶
+
+Chinese Translation: 她通过采取一种漫不经心的态度来淡化对他的真实感情，但实际上，内心中存在着强烈的憎恶感。
+
