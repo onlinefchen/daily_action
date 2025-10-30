@@ -4261,3 +4261,6 @@ muscle
 ungrudging
 gerrymander
 delinquent
+delineate
+summation
+interregnum
