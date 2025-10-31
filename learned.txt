@@ -4267,3 +4267,6 @@ interregnum
 mural
 writ
 gentry
+crater
+fortuitous
+unkempt
