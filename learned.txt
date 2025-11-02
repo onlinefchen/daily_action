@@ -4282,3 +4282,6 @@ odds
 studied
 autobiography
 overt
+spartan
+doleful
+forte
