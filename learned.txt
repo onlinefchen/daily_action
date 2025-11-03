@@ -4285,3 +4285,6 @@ overt
 spartan
 doleful
 forte
+drawl
+redeem
+unwarranted
