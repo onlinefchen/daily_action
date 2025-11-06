@@ -4303,3 +4303,6 @@ devious
 aberrant
 teeter
 suffuse
+conscience
+baleful
+crust
