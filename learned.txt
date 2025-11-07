@@ -4312,3 +4312,6 @@ dissect
 conformity
 dutiful
 companion
+projector
+arboretum
+wean
