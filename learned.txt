@@ -4318,3 +4318,6 @@ wean
 walrus
 bibliography
 recluse
+confront
+hurricane
+promulgate
