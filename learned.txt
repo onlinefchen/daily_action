@@ -4333,3 +4333,6 @@ drizzle
 blooming
 impair
 adobe
+lucid
+haphazard
+enlightening
