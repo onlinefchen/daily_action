@@ -4342,3 +4342,6 @@ unbecoming
 withstand
 halfhearted
 zenith
+pan
+beam
+pun
