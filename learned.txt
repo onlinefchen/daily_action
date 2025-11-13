@@ -4348,3 +4348,6 @@ pun
 reprove
 commentary
 belie
+misshapen
+ingratiate
+exponent
