@@ -4354,3 +4354,6 @@ exponent
 execrable
 overrule
 bequeath
+opaque
+bifurcate
+lethal
