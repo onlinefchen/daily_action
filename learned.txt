@@ -4360,3 +4360,6 @@ lethal
 fumigate
 sediment
 elusive
+vitrify
+mercantile
+cistern
