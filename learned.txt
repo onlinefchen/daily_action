@@ -4357,3 +4357,6 @@ bequeath
 opaque
 bifurcate
 lethal
+fumigate
+sediment
+elusive
