@@ -4378,3 +4378,6 @@ leisureliness
 tacit
 pandemic
 lethargic
+cursory
+rampage
+hearten

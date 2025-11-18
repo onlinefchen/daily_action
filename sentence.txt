@@ -15336,3 +15336,22 @@ Sure! Here's a sentence for you:
 
 Translation in Chinese: "疫情对我们日常生活的影响产生了一种默契的认识，即保持懒散不再是一个选项。"
 
+"Sorry for my cursory glance earlier, but your dog went on a rampage and it really didn't hearten me." 
+
+中文翻译：对不起我之前只是粗略地看了一眼，但是你的狗发狂了，这真的让我感到沮丧。
+
+- cursory /ˈkɜːrsəri/ (adj.) 
+   International Phonetic Alphabet: /ˈkɜːrsəri/
+   English definition: done quickly with little attention to detail
+   中文解释：粗略的，草率的
+
+- rampage /ˈræmpɪdʒ/ (n.) 
+   International Phonetic Alphabet: /ˈræmpɪdʒ/
+   English definition: violent or excited behavior that is reckless or uncontrolled
+   中文解释：暴跳，狂暴
+
+- hearten /ˈhɑːrtn/ (v.) 
+   International Phonetic Alphabet: /ˈhɑːrtn/
+   English definition: to make someone feel braver or more hopeful
+   中文解释：鼓励，激励
+
