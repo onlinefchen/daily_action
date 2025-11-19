@@ -4384,3 +4384,6 @@ hearten
 novice
 predominate
 sluggard
+underdog
+cantankerous
+petulance
