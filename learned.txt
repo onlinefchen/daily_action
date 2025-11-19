@@ -4381,3 +4381,6 @@ lethargic
 cursory
 rampage
 hearten
+novice
+predominate
+sluggard
