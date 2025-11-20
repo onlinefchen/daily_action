@@ -4387,3 +4387,6 @@ sluggard
 underdog
 cantankerous
 petulance
+acolyte
+droop
+proclamation
