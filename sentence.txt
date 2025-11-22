@@ -15419,3 +15419,11 @@ Sure! Here is a sentence for you: "The sampler of fancy cheeses displayed the un
 
 Translation: "那位品尝时髦奶酪的人展示了卖家的不道德行为，但每一口都能感受到奶酪制造者的勤奋态度。"
 
+Sure! Here is a sentence for you: "She mumbled unsubstantiated rumors that seemed to forebode trouble." 
+
+- unsubstantiated [ˌʌnsəbˈstænʃieɪtid] (adjective): not supported or proven by any evidence; lacking factual basis
+- mumble [ˈmʌmbəl] (verb): to speak in a low or unclear way that is hard to understand
+- forebode [fɔrˈboʊd] (verb): to predict or indicate something bad or unpleasant in the future
+
+Translation: "她喃喃自语着毫无根据的谣言，似乎预示着麻烦的来临。"
+
