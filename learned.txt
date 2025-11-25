@@ -4417,3 +4417,6 @@ modify
 abstruse
 scotch
 vintner
+gist
+elaboration
+vague
