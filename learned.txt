@@ -4420,3 +4420,6 @@ vintner
 gist
 elaboration
 vague
+asunder
+environ
+distracted
