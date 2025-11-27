@@ -4432,3 +4432,6 @@ resilient
 disburse
 sedentary
 hydrate
+demolish
+whimsy
+jeopardize
