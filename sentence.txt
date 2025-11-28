@@ -15570,3 +15570,13 @@ Sentence: The heavy metal band's deafening music seemed to annihilate any sense 
     - English Definition: a sequence of single notes that is musically satisfying 
     - 中文解释：旋律
 
+Sure! Here is a sentence for you:
+
+"She was tasked with caring for that irksome filly until the very end of the epilogue."
+
+['fɪli] - A young female horse that is under the age of four. 
+['ɜ:ksəm] - Annoying or irritating. 
+['ɛpɪˌlɔːg] - A section at the end of a book or play that provides a conclusion or resolution to the story.
+
+Translation: "她被交代要照顾那只令人烦恼的小母马，直到结尾的大结局。"
+
