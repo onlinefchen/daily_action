@@ -4450,3 +4450,6 @@ incubus
 disposition
 audience
 hurl
+impulsive
+consternation
+repellent
