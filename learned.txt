@@ -4447,3 +4447,6 @@ exaggeration
 trance
 loaf
 incubus
+disposition
+audience
+hurl
