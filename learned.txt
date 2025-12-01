@@ -4453,3 +4453,6 @@ hurl
 impulsive
 consternation
 repellent
+spectrum
+ovation
+lever
