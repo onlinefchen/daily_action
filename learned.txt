@@ -4459,3 +4459,6 @@ lever
 incubator
 unconscionable
 libel
+reprisal
+contradict
+controvert
