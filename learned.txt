@@ -4468,3 +4468,6 @@ burgeon
 subterfuge
 static
 tapestry
+suggestive
+tempest
+minatory
