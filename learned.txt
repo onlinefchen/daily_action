@@ -4477,3 +4477,6 @@ miscreant
 unrequited
 heavy-handedness
 fortitude
+contiguous
+setback
+factual
