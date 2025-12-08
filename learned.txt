@@ -4495,3 +4495,6 @@ tragedy
 polish
 constraint
 purlieu
+sill
+surmount
+headstrong
