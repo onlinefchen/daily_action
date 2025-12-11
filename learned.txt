@@ -4513,3 +4513,6 @@ terrace
 conceal
 original
 indifferent
+devastate
+incandescence
+bare
