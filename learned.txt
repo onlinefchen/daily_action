@@ -4516,3 +4516,6 @@ indifferent
 devastate
 incandescence
 bare
+emulate
+auspices
+complicate
