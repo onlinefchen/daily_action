@@ -4519,3 +4519,6 @@ bare
 emulate
 auspices
 complicate
+impart
+tourniquet
+incontrovertible
