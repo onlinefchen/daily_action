@@ -4528,3 +4528,6 @@ boost
 immemorial
 flux
 congeal
+insouciant
+indignation
+scorpion
