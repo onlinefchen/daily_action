@@ -15931,3 +15931,13 @@ Pronunciation:
 
 Translation: 她使用语言策略来放大她的演讲影响力，并增强自己的可信度。
 
+Sure, here is a sentence incorporating the words "immemorial," "flux," and "congeal": 
+
+"The traditions passed down through generations have remained unchanged since time immemorial, despite the constant flux of the modern world causing some ideas to congeal into outdated beliefs."
+
+- immemorial  [ɪˈmɪˈmɔ:riəl]  (adjective) - for a very long time; ancient
+- flux  [flʌks]  (noun) - continuous change or flow
+- congeal  [kənˈdʒiːl]  (verb) - to solidify or thicken, especially by cooling 
+
+Translation: "自古传承下来的传统自远古以来一直保持不变，尽管现代世界不断变化，导致一些观念凝固成过时的信念。"
+
