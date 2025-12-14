@@ -4531,3 +4531,6 @@ congeal
 insouciant
 indignation
 scorpion
+eternal
+claim
+ersatz
