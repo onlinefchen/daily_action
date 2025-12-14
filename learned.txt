@@ -4534,3 +4534,6 @@ scorpion
 eternal
 claim
 ersatz
+momentous
+sage
+pantomime
