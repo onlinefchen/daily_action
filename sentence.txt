@@ -15982,3 +15982,11 @@ Translation (翻译): "对选举的新闻报道关注每位候选人对医疗保
 - candidate [ˈkændɪˌdeɪt] (n.): a person who applies for a job or is nominated for election (候选人)
 - painkiller [ˈpeɪnˌkɪlər] (n.): a drug or medicine used to relieve pain (止痛药)
 
+Sure, here is a sentence for you: "She couldn't believe he would efface the ingratitude she felt towards him despite her instinctive desire to forgive." 
+
+- ingratitude [ˌinˈɡrætɪˌt(j)ud]  n. lack of gratitude; ungratefulness 不负责任；忘恩负义
+- instinctive [ɪnˈstɪŋktɪv]  adj. based on instinct rather than conscious reasoning 本能的；直觉的
+- efface [ɪˈfeɪs]  v. to wipe out; obliterate; erase 抹去；消除
+
+中文翻译：她无法相信他会抹去她对他的不感激之情，尽管她本能地渴望原谅他。
+
