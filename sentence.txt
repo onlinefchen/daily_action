@@ -16016,3 +16016,11 @@ Sure! Here is a sentence for you: "The silversmith's reputation for quality work
 - silversmith: 用银制造物品的工匠
 - emulsify: 将两种通常不会混合的液体混合在一起的过程，通常通过使用乳化剂来实现
 
+Sure, here is an English sentence for you: "I abominate the smell of that drench, even the reagent couldn't mask it."
+
+- abominate /əˈbɒmɪˌneɪt/ (v): to hate something very much
+- reagent /riˈeɪdʒənt/ (n): a substance or mixture used in chemical analysis or other reactions
+- drench /drench/ (v): to wet thoroughly; to soak
+
+Chinese translation: "我讨厌那种淋湿的气味，即使试剂也掩盖不了它。"
+
