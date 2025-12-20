@@ -4570,3 +4570,6 @@ marine
 thorn
 quarantine
 tenacious
+stretch
+transfigure
+parameter
