@@ -16105,3 +16105,13 @@ Sure, here is a sentence for you: "After a good stretch, her workout routine see
 
 - parameter /pə'ræmɪtər/ (noun): a characteristic or constant factor that acts as a limit or boundary. 中文解释：参数；限制因素
 
+Sure, here is a sentence that includes 'tongs', 'insolvency', and 'terminate':
+
+"We borrowed a pair of tongs from the neighbor to barbecue before our company faced insolvency and had to terminate operations."
+
+- tongs /tɔŋz/ [tɒŋz] (n. pl.) - A utensil used for gripping and lifting objects.
+- insolvency /ɪnˈsɒlvənsi/ [ɪnˈsɒlvənsi] (n.) - The state of being unable to pay debts.
+- terminate /ˈtɜrmɪˌneɪt/ [ˈtɜrmɪˌneɪt] (v.) - To bring to an end.
+
+Translation: "我们从邻居那里借了一把夹子来烧烤，后来我们的公司面临破产，不得不终止运营。"
+

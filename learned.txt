@@ -4573,3 +4573,6 @@ tenacious
 stretch
 transfigure
 parameter
+tongs
+insolvency
+terminate
