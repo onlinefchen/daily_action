@@ -4576,3 +4576,6 @@ parameter
 tongs
 insolvency
 terminate
+strut
+croak
+vehicle
