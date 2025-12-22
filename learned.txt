@@ -4579,3 +4579,6 @@ terminate
 strut
 croak
 vehicle
+exigent
+toady
+trickle
