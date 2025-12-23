@@ -16146,3 +16146,15 @@ Sure, here is a sentence that includes the words 'meretricious', 'covert', and '
 
 Translation: 主角揭露了隐藏的计划，意识到那华而不实的外表下隐藏着一个危险的秘密。
 
+"His kidney-shaped pool echoed with the voluminous din of children playing."  
+
+高于初中水平的单词：
+- voluminous /vəˈluːmɪnəs/ (adj.) - occupying or containing much space; large in volume or bulk
+中文解释：巨大的，容积大的
+- kidney /ˈkɪdni/ (n.) - one of a pair of organs in the back of the body that filter waste products from the blood and produce urine
+中文解释：肾，脏器
+- din /dɪn/ (n.) - a loud, unpleasant, and prolonged noise
+中文解释：喧嚣声
+
+中文翻译：他的肾形泳池回荡着嬉戏打闹的孩子们发出的巨大喧嚣声。
+
