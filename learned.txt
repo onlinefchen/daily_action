@@ -4615,3 +4615,6 @@ meander
 mete
 commonplace
 toxic
+adumbrate
+obnoxious
+arrogance
