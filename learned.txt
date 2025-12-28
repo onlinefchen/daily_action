@@ -4618,3 +4618,6 @@ toxic
 adumbrate
 obnoxious
 arrogance
+valorous
+coagulant
+fastness
