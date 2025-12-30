@@ -4630,3 +4630,6 @@ lust
 throng
 vulnerable
 doctrine
+injurious
+compile
+skimp

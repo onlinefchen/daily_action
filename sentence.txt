@@ -16322,3 +16322,13 @@ International Phonetic Alphabet (IPA), English Explanation, and Chinese Translat
 - vulnerable ['vʌlnərəbl] - susceptible to physical or emotional harm; 易受伤害的
 - doctrine ['dɒktrɪn] - a belief or set of beliefs held and taught by a religion, political party, or other group; 学说、教义
 
+Sure, here is a sentence for you:
+
+"Skimping on safety measures can be injurious to your health, so make sure to compile a comprehensive list of precautions before starting any project." 
+
+中文翻译：在安全措施上偷工减料可能对您的健康有害，因此请确保在开始任何项目之前编制一份全面的预防清单。
+
+- injurious /ɪnˈdʒʊriəs/ (adjective) - causing harm or damage; 有害的，伤害的
+- compile /kəmˈpaɪl/ (verb) - to put together information, materials, or a written work; 汇编，编制
+- skimp /skɪmp/ (verb) - to use insufficiently or inadequately; 节约使用，偷工减料
+
