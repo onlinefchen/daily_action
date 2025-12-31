@@ -4636,3 +4636,6 @@ skimp
 cast
 monolithic
 polarize
+induce
+abuse
+abbreviate
