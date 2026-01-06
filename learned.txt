@@ -4669,3 +4669,6 @@ hangar
 possessed
 humility
 parallel
+placid
+chastise
+repulse
