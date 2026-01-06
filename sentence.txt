@@ -16486,3 +16486,13 @@ Translation: "她拥有一种难得的天赋与谦逊的组合，与她对工艺
 
 中文翻译：她试图保持镇定和平静，但情不自禁地责备了那位粗鲁的顾客的行为，这只让他对她更产生了排斥感。
 
+Sure! Here is a casual sentence that includes the words 'terminal', 'obdurate', and 'adorn':
+
+"I tried to ask my mom to adorn our living room with some new curtains, but she was being obdurate and refused to even consider it, claiming it would disrupt the terminal style she loves."
+
+- **terminal** \['ˈtɝː.mə.nəl\] (adj.): causing or marking the end of something; relating to a transportation hub; definitive; (终点的；航站楼的；决定性的；)
+- **obdurate** \['ˈɑːb.djər.ət\] (adj.): stubbornly refusing to change one's opinion or course of action; (固执的；顽固的)
+- **adorn** \[əˈdɔːrn\] (v.): to add beauty or decoration to something; (装饰；使华美)
+
+Chinese Translation: “我尝试向妈妈提出用一些新的窗帘装饰我们的客厅，但她却固执己见，拒绝甚至考虑，声称这会破坏她喜欢的终点风格。”
+

@@ -4672,3 +4672,6 @@ parallel
 placid
 chastise
 repulse
+terminal
+obdurate
+adorn
