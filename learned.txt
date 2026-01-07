@@ -4675,3 +4675,6 @@ repulse
 terminal
 obdurate
 adorn
+piddling
+deactivate
+obscure
