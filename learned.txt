@@ -4690,3 +4690,6 @@ bacterium
 smattering
 malapropism
 anguish
+anchor
+toil
+evade
