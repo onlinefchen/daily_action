@@ -4687,3 +4687,6 @@ solo
 bruit
 flout
 bacterium
+smattering
+malapropism
+anguish
