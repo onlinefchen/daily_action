@@ -4711,3 +4711,6 @@ fraud
 pecan
 feigned
 breadth
+sere
+unregulated
+airtight
