@@ -4732,3 +4732,6 @@ interplay
 disrepute
 didactic
 intervene
+meditate
+benefactor
+fertilize
