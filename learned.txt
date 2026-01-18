@@ -4741,3 +4741,6 @@ tactile
 rebate
 calligraphy
 marvel
+smug
+monarch
+rebellious
