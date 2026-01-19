@@ -4750,3 +4750,6 @@ clairvoyance
 respiration
 quandary
 correspondent
+abash
+depose
+dexterous
