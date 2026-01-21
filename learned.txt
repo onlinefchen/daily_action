@@ -4759,3 +4759,6 @@ timber
 scant
 chameleon
 asylum
+abdicate
+unimpassioned
+refraction
