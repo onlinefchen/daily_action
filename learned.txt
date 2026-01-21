@@ -4762,3 +4762,6 @@ asylum
 abdicate
 unimpassioned
 refraction
+stratum
+materialize
+minimize
