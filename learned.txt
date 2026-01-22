@@ -4765,3 +4765,6 @@ refraction
 stratum
 materialize
 minimize
+hedge
+muffle
+cleaver
