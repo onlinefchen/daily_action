@@ -4768,3 +4768,6 @@ minimize
 hedge
 muffle
 cleaver
+evocative
+agony
+literate
