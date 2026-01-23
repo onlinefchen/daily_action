@@ -4774,3 +4774,6 @@ literate
 plague
 redoubtable
 tactic
+minutes
+skinflint
+doff
