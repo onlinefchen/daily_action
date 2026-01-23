@@ -4771,3 +4771,6 @@ cleaver
 evocative
 agony
 literate
+plague
+redoubtable
+tactic
