@@ -4780,3 +4780,6 @@ doff
 abscond
 judiciousness
 chaff
+vicar
+prophet
+purchase
