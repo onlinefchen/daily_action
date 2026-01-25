@@ -4786,3 +4786,6 @@ purchase
 terminus
 sweltering
 passive
+furtive
+subversive
+earplug
