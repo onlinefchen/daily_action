@@ -4789,3 +4789,6 @@ passive
 furtive
 subversive
 earplug
+debrief
+retort
+hinder
