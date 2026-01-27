@@ -4798,3 +4798,6 @@ rambunctious
 captivate
 provenance
 epithet
+erase
+hector
+pugnacious
