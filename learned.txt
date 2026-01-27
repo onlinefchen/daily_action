@@ -4795,3 +4795,6 @@ hinder
 proffer
 preview
 rambunctious
+captivate
+provenance
+epithet
