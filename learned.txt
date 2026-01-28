@@ -4801,3 +4801,6 @@ epithet
 erase
 hector
 pugnacious
+cosmos
+deface
+toy
