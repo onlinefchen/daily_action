@@ -4813,3 +4813,6 @@ inordinate
 flaunt
 flourish
 gravel
+peremptory
+berate
+salmon
