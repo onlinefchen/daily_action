@@ -4828,3 +4828,6 @@ grouch
 awe-inspiring
 riddle
 dealing
+farce
+canopy
+school
