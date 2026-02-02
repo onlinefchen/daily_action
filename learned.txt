@@ -4834,3 +4834,6 @@ school
 metaphysics
 augment
 regime
+inaugurate
+chide
+revise
