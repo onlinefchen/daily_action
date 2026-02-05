@@ -4852,3 +4852,6 @@ cram
 precede
 saboteur
 clumsy
+improvised
+archaeology
+complacency
