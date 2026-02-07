@@ -4861,3 +4861,6 @@ flaccid
 embroider
 vestment
 phantom
+allocate
+succumb
+interlock
