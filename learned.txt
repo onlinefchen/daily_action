@@ -4876,3 +4876,6 @@ avoid
 predisposition
 backhanded
 guillotine
+gouge
+finicky
+combat
