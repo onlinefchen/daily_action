@@ -4882,3 +4882,6 @@ combat
 tangential
 aromatic
 bedlam
+full-blown
+entirety
+initiative
