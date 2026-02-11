@@ -4888,3 +4888,6 @@ initiative
 drenched
 wheedle
 innuendo
+ballad
+moratorium
+occurrence
