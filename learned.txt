@@ -4885,3 +4885,6 @@ bedlam
 full-blown
 entirety
 initiative
+drenched
+wheedle
+innuendo
