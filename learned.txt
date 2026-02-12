@@ -4894,3 +4894,6 @@ occurrence
 orchard
 egocentric
 inoculate
+guffaw
+familiarity
+exactitude
