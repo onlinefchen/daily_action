@@ -4900,3 +4900,6 @@ exactitude
 scandal
 lash
 hasten
+shun
+whet
+profuse
