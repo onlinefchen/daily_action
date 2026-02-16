@@ -4915,3 +4915,6 @@ predator
 dodder
 armistice
 sluice
+libretto
+scarcity
+pompous
