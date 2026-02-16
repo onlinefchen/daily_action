@@ -4918,3 +4918,6 @@ sluice
 libretto
 scarcity
 pompous
+bombast
+feminist
+indicative
