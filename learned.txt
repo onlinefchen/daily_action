@@ -4924,3 +4924,6 @@ indicative
 maize
 figurine
 rafter
+glimmer
+clientele
+revenue
