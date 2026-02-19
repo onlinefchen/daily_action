@@ -4936,3 +4936,6 @@ sleigh
 configuration
 pretentious
 inveigle
+fang
+leery
+calibrate
