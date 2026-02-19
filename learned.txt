@@ -4933,3 +4933,6 @@ glade
 ingénue
 ample
 sleigh
+configuration
+pretentious
+inveigle
