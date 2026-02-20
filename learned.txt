@@ -4942,3 +4942,6 @@ calibrate
 evenhanded
 denigrate
 quote
+stutter
+enmity
+cushion
