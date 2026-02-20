@@ -4939,3 +4939,6 @@ inveigle
 fang
 leery
 calibrate
+evenhanded
+denigrate
+quote
