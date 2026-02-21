@@ -17552,3 +17552,13 @@ International Phonetic Alphabet (IPA), English Definition, Chinese Translation:
 - schematize [ˈskiːmətaɪz] - to represent or outline something in a schematic or systematic way; 将...系统化，纲要化
 - guilty [ˈɡɪlti] - responsible for a criminal or morally wrong act; 有罪的，内疚的
 
+Sure! Here is a sentence for you: 
+
+"She failed her botany exam due to her slipshod studying habits and susceptibility to distractions."
+
+['slɪpˈʃɑd] slipshod: (adj.) careless or untidy
+[ˈbɒtəni] botany: (n.) the scientific study of plants
+[səˌsɛptəˈbɪləti] susceptibility: (n.) the state of being easily affected or influenced by something
+
+Translation: "由于她的草率学习习惯和对干扰的敏感度，她未通过植物学考试。"
+
