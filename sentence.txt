@@ -17544,3 +17544,11 @@ Sure, here is a sentence for you: "He used a soft cushion to sit comfortably whi
 
 Translation in Chinese: "他坐在一个软垫子上，舒适地讨论着他们之间的敌意，并且努力克服自己的口吃问题。"
 
+Sure, here is a sentence for you: "I appreciate when my teacher schematizes complex information, but I feel guilty when I don't understand it."
+
+International Phonetic Alphabet (IPA), English Definition, Chinese Translation:
+
+- appreciate [əˈpriːʃieɪt] - to value or recognize the quality, significance, or magnitude of something; 欣赏，感激
+- schematize [ˈskiːmətaɪz] - to represent or outline something in a schematic or systematic way; 将...系统化，纲要化
+- guilty [ˈɡɪlti] - responsible for a criminal or morally wrong act; 有罪的，内疚的
+
