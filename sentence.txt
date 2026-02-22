@@ -17574,3 +17574,13 @@ Sure! Here is a casual sentence containing 'sublime', 'antenna', and 'surly':
 中文翻译： 
 "我简直无法相信屋顶上的壮丽景色，但那个粗暴的技术员正忙着调整天线。"
 
+Sure! Here is a sentence for you:
+
+"My thesis on ancient mythology opened up new realms of knowledge, shedding light on topics once shrouded in a dim understanding of the past."
+
+中文翻译：我的关于古代神话的论文开辟了新的知识领域，揭示了过去被一片模糊理解所笼罩的话题。
+
+- thesis /ˈθiːsɪs/ (n.) - a long essay or dissertation involving personal research, written by a candidate for a university degree 学位论文
+- ken /kɛn/ (n.) - perception, understanding, or knowledge 知识，理解
+- dim /dɪm/ (adj.) - not having much light, rather dark 昏暗的
+
