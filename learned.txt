@@ -4972,3 +4972,6 @@ demean
 apparatus
 cohesive
 discomfit
+carol
+creek
+pithiness
