@@ -4978,3 +4978,6 @@ pithiness
 apparel
 elephantine
 nicety
+prospect
+grave
+puerile
