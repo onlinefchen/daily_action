@@ -4984,3 +4984,6 @@ puerile
 yacht
 eminence
 entail
+elbow
+autocracy
+contact
