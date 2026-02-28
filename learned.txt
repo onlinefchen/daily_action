@@ -4987,3 +4987,6 @@ entail
 elbow
 autocracy
 contact
+microscope
+frigid
+seethe
