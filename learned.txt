@@ -4996,3 +4996,6 @@ diagnose
 peak
 incipient
 filigree
+extend
+sane
+prone
