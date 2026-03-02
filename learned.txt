@@ -4999,3 +4999,6 @@ filigree
 extend
 sane
 prone
+canvas
+guarantee
+sanctify
