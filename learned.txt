@@ -5002,3 +5002,6 @@ prone
 canvas
 guarantee
 sanctify
+barrage
+gyrate
+economical
