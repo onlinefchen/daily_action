@@ -5005,3 +5005,6 @@ sanctify
 barrage
 gyrate
 economical
+colossus
+asymmetric
+snug
