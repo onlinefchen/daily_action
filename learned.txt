@@ -5032,3 +5032,6 @@ quell
 wholesome
 decorum
 quixotic
+totter
+tonsorial
+belated
