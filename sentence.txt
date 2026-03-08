@@ -17913,3 +17913,23 @@ Sure! Here is a casual sentence that includes the words 'totter', 'tonsorial', a
 - Tonsorial: 理发的
 - Belated: 迟到的
 
+Sure, here is an informal sentence that includes the words 'decipher', 'injection', and 'habitat':
+
+"I had to decipher the instructions on the medicine bottle before my dad could give me an injection in the doctor's habitat."
+
+["aɪ hæd tuː dɪˈsaɪfər ðə ɪnˈstrʌkʃənz ɒn ðə "medɪsɪn ˈbɒtəl bɪˈfɔr maɪ dæd kʊd ɡɪv mi ən ɪnˈdʒɛkʃən ɪn ðə ˈdɒktəz ˈhæbɪtæt."]
+
+- decipher [dɪˈsaɪfər]: to figure out or interpret (something difficult or secret)
+    - 英文解释: to convert (a text written in code, or a coded signal) into normal language.
+    - 中文解释: 解读；解码
+
+- injection [ɪnˈdʒɛkʃən]: the act of putting a liquid into the body by using a needle
+    - 英文解释: a shot; a medical treatment in which a substance is put into a person's body using a needle and a syringe.
+    - 中文解释: 注射
+
+- habitat [ˈhæbɪtæt]: the place or type of place where a plant or animal naturally or normally lives or grows
+    - 英文解释: the natural home or environment of an animal, plant, or other organism.
+    - 中文解释: 栖息地；生境
+
+中文翻译: "在医生的栖息地，我必须先破译药瓶上的说明，然后我的爸爸才能给我注射。"
+
