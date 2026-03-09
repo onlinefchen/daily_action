@@ -5044,3 +5044,6 @@ squalor
 travesty
 wick
 allusion
+oscillate
+prowess
+recollection
