@@ -5050,3 +5050,6 @@ recollection
 emote
 holster
 stomach
+confine
+deprecate
+hymn
