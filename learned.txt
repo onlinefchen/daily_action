@@ -5047,3 +5047,6 @@ allusion
 oscillate
 prowess
 recollection
+emote
+holster
+stomach
