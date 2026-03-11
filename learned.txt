@@ -5053,3 +5053,6 @@ stomach
 confine
 deprecate
 hymn
+fervor
+commodity
+curdle
