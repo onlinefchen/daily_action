@@ -5071,3 +5071,6 @@ potable
 expound
 implant
 mash
+symmetry
+evict
+tact
