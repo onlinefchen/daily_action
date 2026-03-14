@@ -5074,3 +5074,6 @@ mash
 symmetry
 evict
 tact
+mire
+mentor
+unflappable
