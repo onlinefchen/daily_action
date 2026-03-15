@@ -5077,3 +5077,6 @@ tact
 mire
 mentor
 unflappable
+agglomerate
+kinetic
+jarring
